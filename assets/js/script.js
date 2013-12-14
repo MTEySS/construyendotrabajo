@@ -1,6 +1,4 @@
 $(function(){
-	
-	var timeline = new VMM.Timeline();
-	timeline.init("data.json");
-
+  var timeline = new VMM.Timeline();
+  timeline.init("data.json");
 });
