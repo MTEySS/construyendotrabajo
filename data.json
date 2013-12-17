@@ -15,7 +15,7 @@
       {
         "startDate":"1999,3",
         "headline":"La Dirección de Sistemas a fines de los '90",
-        "text": "A fines de los '90 el <span class='c1'>Ministerio de Trabajo</span> no contaba todavía con sistemas propio. Los usuarios se conectaban de manera remota a las 'terminales bobas' de <span class='c1'>ANSES</span> y utilizában sus aplicativos. Los compañeros con más años todavía recuerdan las letras verdes de las terminales.",
+        "text": "A fines de los '90 el <span class='c1'>Ministerio de Trabajo</span> no contaba, todavía, con sistemas propio. Los usuarios se conectaban de manera remota a las 'terminales bobas' de <span class='c1'>ANSES</span> y utilizaban sus aplicativos. Los compañeros con más años todavía recuerdan las letras verdes de las terminales.",
         "asset":
         {
           "media":"assets/img/screenshots/sijp.png",
@@ -25,7 +25,7 @@
       {
         "startDate":"1999,5",
         "headline":"La crisis del año 2000",
-        "text": "En los modelos más antiguos de equipos se usaban dos dígitos para almacenar los años, esto es lo que dio lugar a lo que más tarde se conocería como la <span class='c2'>Crisis del año 2000</span> o simplemente la <span class='c2'>Crisis del Y2K</span>.<br /><br />Para hacer frente a dicha crisis numerosos sistemas de <span class='c1'>ANSES</span> tuvieron que ser desarrollados desde cero, migrando toda su información, en una carrera contra reloj antes de que llegara fin de año.",
+        "text": "En los modelos más antiguos de máquinas se usaban dos dígitos para almacenar los años, esto es lo que dio lugar a lo que más tarde se conocería como la <span class='c2'>Crisis del año 2000</span> o simplemente la <span class='c2'>Crisis del Y2K</span>.<br /><br />Para hacer frente a dicha crisis numerosos sistemas de <span class='c1'>ANSES</span> tuvieron que ser desarrollados desde cero, migrando toda su información, en una carrera contra reloj antes de que llegara fin de año.",
         "asset":
         {
           "media":"assets/img/screenshots/y2k_crisis.png",
@@ -35,7 +35,7 @@
       {
         "startDate":"1999,7",
         "headline":"Mesa de Entradas General, Resoluciones y Notificaciones",
-        "text": "Desarrollado para la <span class='c1'>Dirección de Despacho</span>, el sistema permite gestionar todos de los expedientes del Ministerio. Actualmente es utilizado a diario por más de <span class='c2'>3.000 usuarios</span> en todo el país, y contiene la información sobre <span class='c2'>9.000.000 de documentos</span> con sus <span class='c2'>19.000.000 de pases</span>. <br /><br />Para esa fecha también se desarrollaron el <span class='c1'>Sistema de Resoluciones Electrónicas</span> y el de <span class='c1'>Notificaciones</span>, a fin de hacer frente a la <span class='c2'>crisis del Y2K</span>.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Despacho</span>, el sistema permite gestionar todos los expedientes del Ministerio. Actualmente es utilizado a diario por más de <span class='c2'>3.000 usuarios</span> en todo el país, y contiene la información de más de <span class='c2'>5.000.000 de documentos</span> con sus <span class='c2'>22.000.000 de pases</span>. <br /><br />Para esa fecha también se desarrollaron el <span class='c1'>Sistema de Resoluciones Electrónicas</span> y el de <span class='c1'>Notificaciones</span>, a fin de hacer frente a la <span class='c2'>crisis del Y2K</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/mesa.png",
@@ -45,11 +45,21 @@
 
       {
         "startDate":"2000,7",
-        "headline":"Liquidación de Fondos Rotatorios",
-        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite el registro, liquidación y control de los fondos rotatorios. Mediante este sistema, al día de la fecha se han efectuado más de <span class='c2'>26.000 liquidaciones</span>.",
+        "headline":"Liquidación de Fondos Rotatorios y Liquidación de Gastos",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite el registro, liquidación y control de los fondos rotatorios, así como la liquidación de gastos para el pago de proveedores. Mediante este sistema, al día de la fecha se han efectuado más de <span class='c2'>26.000 liquidaciones</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/fondos.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2003,9",
+        "headline":"Plan Nacional de Regularización del Trabajo - PNRT",
+        "text": "Luego de una década de neoliberalistmo a ultranza, en mayo del 2003 el país tenía una <span class='c2'>tasa de empleo no registrado del 44.8 %</span>. Es entonces cuando <span class='c1'>La Secretarìa de Trabajo</span> se fija como un objetivo básico el fortalecimiento de las tareas de inspección y se comienza la construcción del <span class='c1'>Plan Nacional de Regularización del Trabajo</span>, también conocido como <span class='c1'>PNRT</span><br /><br />En Septiembre de 2003 se implementa la primera versión del aplicativo <span class='c1'>PNRT</span>. A los pocos meses ya se habían registrado <span class='c1'>90.000 fiscalizaciones </span> y se habìan relevado más de <span class='c1'>300.000 trabajadores</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/fiscalizacion.png",
           "caption":""
         }
       },
@@ -77,7 +87,7 @@
       {
         "startDate":"2005,08",
         "headline":"Postulantes",
-        "text": "Desarrollado para la <span class='c1'>Dirección de Recursos Humanos</span>, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al <span class='c1'>Ministerio de Trabajo</span>. En base a la información ingresada por los postulantes, se ha elaborado una completa base de datos que el personal de la Dirección consulta a la hora de efectuar una convocatoria.<br /><br /> Parte del alta del CV sirvió de base para el posterior <span class='c1'>Sistema Concursar</span>.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Recursos Humanos</span>, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al <span class='c1'>Ministerio de Trabajo</span>. Hacia fines de 2008 el <span class='c1'>Ministerio</span> ya contaba con una completa base de trabajadores con los más de <span class='c2'>70.000 postulantes</span> que ingresaron sus datos.<br /><br /> El alta del CV que ven en la pantalla sirvió de base para el posterior <span class='c1'>Sistema Concursar</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/postulantes.png",
@@ -87,7 +97,7 @@
       {
         "startDate":"2006,01",
         "headline":"Acciones Judiciales",
-        "text": "Desarrollado para la <span class='c1'>Dirección de Acciones Judiciales</span>permite llevar adelante la representación del Ministerio de Trabajo ante la justicia. Actualmente es utilizado por más de <span class='c2'>150 abogados</span> y <span class='c2'>40 dependencias</span> de todo el país. Al día de la fecha el sistema ha permitido la gestión de más de <span class='c2'>120.000 casos</span> en los cuales los abogados representan al Ministerio ante la justicia, <span class='c2'>130.000 expedientes administrativos</span> y <span class='c2'>87.000 boletas de pago</span>.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Acciones Judiciales</span> permite asistir a los letrados en la representación del <span class='c1'>Ministerio de Trabajo</span> ante la justicia. Actualmente es utilizado en <span class='c2'>40 dependencias</span> de todo el país por más de <span class='c2'>150 abogados</span>, incluyendo el acceso de los abogados de la <span class='c1'>Procuración</span>. Al día de la fecha el sistema ha permitido la gestión de más de <span class='c2'>120.000 casos</span> ante la justicia, <span class='c2'>130.000 expedientes administrativos</span> y <span class='c2'>87.000 boletas de pago</span>. <br /><br />El Sistema cuenta además con interfaces con otros organismos como <span class='c1'>AFIP</span>, la <span class='c1'>Cámara de la Seguridad Social</span> y próximamente con los <span class='c1'>Juzgados Federales</span> a nivel país y con la <span class='c1'>Cámara Laboral</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/juicios.png",
@@ -96,8 +106,8 @@
       },
       {
         "startDate":"2006,10",
-        "headline":"Liquidación de Viáticos",
-        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso, se registraron más de <span class='c2'>90.000 liquidaciones de viáticos</span> para cerca de <span class='c2'>2.700 agentes</span>. <br /><br />El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.",
+        "headline":"Liquidación de Comisiones de Servicio y Viáticos",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso se registraron más de <span class='c2'>90.000 liquidaciones de viáticos</span> para cerca de <span class='c2'>2.700 agentes</span>. <br /><br />El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.",
         "asset":
         {
           "media":"assets/img/screenshots/viaticos.png",
@@ -107,7 +117,7 @@
       {
         "startDate":"2007,02",
         "headline":"Resoluciones de Trabajo Agrario",
-        "text": "Desarrollado para la <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, el sistema permite registrar y consultar toda a normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de <span class='c2'>1.400 resoluciones</span> atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página wbe del <span class='c1'>Ministerio de Trabajo</span>.",
+        "text": "Desarrollado para la <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, el sistema permite registrar y consultar toda a normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de <span class='c2'>1.400 resoluciones</span> atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página web del <span class='c1'>Ministerio de Trabajo</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/trabajo_agrario.png",
@@ -147,7 +157,7 @@
       {
         "startDate":"2011,11",
         "headline":"Consulta web de Mesa de Entradas General",
-        "text": "Desarrollo de un buscador de expedientes en versión web de uso interno. El mismo es utilizado a diario por gran parte de los <span class='c2'>4.000 trabajadores del Ministerio</span> y ha permtido aliviar la carga de trabajo del sistema de alta de de Expedientes.<br /><br />También se ha desarrollado un buscador público de expedientes disponible para todos los ciudadanos en la página web del Ministerio.",
+        "text": "Desarrollo de un buscador de expedientes en versión web para uso interno. El mismo es utilizado a diario por gran parte de los <span class='c2'>4.000 trabajadores del Ministerio</span> y ha permtido aliviar la carga de trabajo del sistema de alta de de Expedientes.<br /><br />También se ha desarrollado un buscador público de expedientes disponible para todos los ciudadanos en la página web del Ministerio.",
         "asset":
         {
           "media":"assets/img/screenshots/mesa_consulta_web.png",
