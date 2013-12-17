@@ -4,23 +4,42 @@
   {
     "headline":"Construyendo trabajo",
     "type":"default",
-    "startDate":"2009,1",
-    "text":"<i><span class='c1'>15 años</span> construyendo sistemas<br /> en el <span class='c2'>Ministerio de Trabajo</span></i>",
+    "startDate":"1999,1",
+
+    "text": "Hace años que los trabajadores de Sistemas del Ministerio de Trabajo venimos haciendo lo que mejor sabemos hacer: desarrollar sistemas trabajando codo a codo con el resto de nuestros compañeros del Ministerio.<br /><br />Hoy queremos compartir con ustedes el fruto de estos últimos <span class='c1'>15 años de trabajo</span>. Porque estamos orgullosos de lo que hemos logrado. Porque hace mucho que elegimos trabajar para el Estado. Porque queremos seguir <span class='c2'>construyendo el Ministerio de Trabajo</span>. Y porque no queremos que nadie venga a tirar abajo esto que tanto esfuezo nos costó construir.",
     "asset":
     {
       "media":"assets/img/notes.png",
-      "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
       "caption":""
     },
     "date": [
       {
-        "startDate":"2009,2",
-        "headline":"My first experiment in time-lapse photography",
-        "text":"Nature at its finest in this video.",
+        "startDate":"1999,3",
+        "headline":"La Dirección de Sistemas a fines de los '90",
+        "text": "A fines de los '90 el Ministerio de Trabajo no contaba todavía con sistemas propio. Los usuarios se conectaban de manera remota a las 'terminales bobas' de ANSES y utilizában sus aplicativos. Los compañeros con más años todavía recuerdan las letras verdes de las terminales.",
         "asset":
         {
-          "media":"http://vimeo.com/22439234",
-          "credit":"",
+          "media":"assets/img/screenshots/sijp.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"1999,5",
+        "headline":"La crisis del año 2000",
+        "text": "En los modelos más antiguos de equipos se usaban dos dígitos para almacenar los años, esto es lo que dio lugar a lo que más tarde se conocería como la 'Crisis del año 2000' o simplemente la 'Crisis Y2K'.<br />Para hacer frente a dicha crisis numerosos sistemas de ANSES tuvieron que ser desarrollados desde cero, migrando toda su información, en una carrera contra reloj antes de que llegara fin de año.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/y2k_crisis.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"1999,7",
+        "headline":"Sistema de Mesa de Entradas General",
+        "text": "El sistema de Mesa de Entradas General fue desarrollado para la Dirección de Despacho, y permite la gestión de la totalidad de los expedientes del Ministerio. Es utilizado a diario por más de 3.000 usuario en todo el país. Actualmente contiene la información sobre 9.000.000 de documentos con sus 19.000.000 de pases. <br />Además, gran parte de los sistemas del Ministerio se comunican con el Sistema de Mesa de Entradas mediante interfaces automáticas desarrolladas a tal efecto.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/mesa.png",
           "caption":""
         }
       },
@@ -31,12 +50,31 @@
         "asset":
         {
           "media":"assets/img/shots/sidebar_s3.jpg",
-          "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2009,6",
+        "headline":"Testing my images",
+        "text":"Listado de personal contratado por articulo 9 en el Ministerio de trabajo. ",
+        "asset":
+        {
+          "media":"assets/img/screenshots/contratos-art_9.png",
           "caption":""
         }
       },
       {
         "startDate":"2009,7",
+        "headline":"Listado de personal contratado",
+        "text":"Listado de personal contratado por decreto 2354/08 en el Ministerio de trabajo. ",
+        "asset":
+        {
+          "media":"assets/img/screenshots/contratos-decreto_2354_08.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2009,8",
         "headline":"Another time-lapse experiment",
         "text":"",
         "asset":
@@ -53,7 +91,6 @@
         "asset":
         {
           "media":"assets/img/shots/shot_1298590416.jpg",
-          "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
           "caption":""
         }
       },
@@ -64,7 +101,6 @@
         "asset":
         {
           "media":"assets/img/shots/pet___you.jpg",
-          "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
           "caption":""
         }
       },
