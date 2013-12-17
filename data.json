@@ -43,100 +43,59 @@
           "caption":""
         }
       },
+
       {
-        "startDate":"2009,5",
-        "headline":"Redesign of my portfolio",
-        "text":"",
+        "startDate":"2000,7",
+        "headline":"Sistema de Liquidación de Fondos Rotatorios",
+        "text": "Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite el registro, liquidación y control de los fondos rotatorios. Mediante este sistema, al día de la fecha se han efectuado más de 26.000 liquidaciones.",
         "asset":
         {
-          "media":"assets/img/shots/sidebar_s3.jpg",
+          "media":"assets/img/screenshots/fondos.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2004,3",
+        "headline":"Sistema del Centro de Asesoriamento Laboral",
+        "text": "Desarrollado para el Callcenter del Ministerio, el sistema permite la gestión y almacenar todas la consultas telefónicas que realizan los ciudadanos por planes de empleo, programas de capacitación o cuestiones laborales.<br /><br /> Actualmente el sistema lleva registrados más de 1.400.000 llamados, entre consultas y denuncias.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/callcenter.png",
           "caption":""
         }
       },
       {
-        "startDate":"2009,6",
-        "headline":"Testing my images",
-        "text":"Listado de personal contratado por articulo 9 en el Ministerio de trabajo. ",
+        "startDate":"2004,11",
+        "headline":"Sistema de Dictámenes y Recursos",
+        "text": "Desarrollado para la Dirección de Dictámenes y Recursos, el sistema permite la gestión de los escritos elaborados por los abogados dictaminantes.<br /><br /> El sistema registra hoy más de 25.000 documentos, entre dictámenes y recursos, elaborados a lo largo de estos años por más de 50 profesionales del área.",
         "asset":
         {
-          "media":"assets/img/screenshots/contratos-art_9.png",
+          "media":"assets/img/screenshots/dictamenes.png",
           "caption":""
         }
       },
       {
-        "startDate":"2009,7",
-        "headline":"Listado de personal contratado",
-        "text":"Listado de personal contratado por decreto 2354/08 en el Ministerio de trabajo. ",
+        "startDate":"2005,08",
+        "headline":"Sistema de Postulantes",
+        "text": "Desarrollado para la Dirección de Recursos Humanos, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al Ministerio de Trabajo. En base a la información ingresada por los postulantes, se ha elaborado una completa base de datos que el personal de la Dirección consulta a la hora de efectuar una convocatoria.<br /><br /> Parte del alta del CV sirvió de base para el posterior Sistema Concursar.",
         "asset":
         {
-          "media":"assets/img/screenshots/contratos-decreto_2354_08.png",
+          "media":"assets/img/screenshots/postulantes.png",
           "caption":""
         }
       },
       {
-        "startDate":"2009,8",
-        "headline":"Another time-lapse experiment",
-        "text":"",
+        "startDate":"2006,10",
+        "headline":"Sistema de Liquidación de Viáticos",
+        "text": "Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso, se registraron más de 90.000 liquidaciones de viáticos para cerca de 2.700 agentes. El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.",
         "asset":
         {
-          "media":"http://vimeo.com/23237102",
-          "credit":"",
-          "caption":""
-        }
-      },
-      {
-        "startDate":"2009,10",
-        "headline":"Developed a Gmail Client",
-        "text":"",
-        "asset":
-        {
-          "media":"assets/img/shots/shot_1298590416.jpg",
-          "caption":""
-        }
-      },
-      {
-        "startDate":"2010,3",
-        "headline":"Logo Design for a pet shop",
-        "text":"",
-        "asset":
-        {
-          "media":"assets/img/shots/pet___you.jpg",
-          "caption":""
-        }
-      },
-      {
-        "startDate":"2010,4",
-        "headline":"Developed an iPad newspaper application",
-        "text":"It was a challenge to create both the design and code in a week.",
-        "asset":
-        {
-          "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
-          "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
-          "caption":""
-        }
-      },
-      {
-        "startDate":"2010,8",
-        "headline":"Illustration for a big client.",
-        "text":"",
-        "asset":
-        {
-          "media":"assets/img/shots/chameleon.jpg",
-          "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
-          "caption":""
-        }
-      },
-      {
-        "startDate":"2010,12",
-        "headline":"Advert for Volkswagen",
-        "text":"Created the website for their new advertising campaign.",
-        "asset":
-        {
-          "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
-          "credit":"",
+          "media":"assets/img/screenshots/viaticos.png",
           "caption":""
         }
       }
+
     ]
   }
 }
