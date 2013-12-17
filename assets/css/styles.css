@@ -192,9 +192,18 @@ section, footer, header{
   color:#fff;
 }
 
+/*
 #timeline .slider-item p{
   font-family:'Segoe UI',sans-serif;
 }
+*/
+#timeline .slider-item p {
+  font-family:'Antic Slab','Segoe UI',sans-serif;
+  color:#ddd;
+  font-size: 16px;
+  line-height: 26px;
+}
+
 
 #timeline .slider-item img,
 #timeline .slider-item iframe{
@@ -228,11 +237,11 @@ section, footer, header{
   line-height: 26px;
 }
 
-#timeline .slider-item:nth-child(1) p .c1{
+#timeline .slider-item p .c1{
   color: #1bdff0;
 }
 
-#timeline .slider-item:nth-child(1) p .c2{
+#timeline .slider-item p .c2{
   color: #c92fe6;
 }
 

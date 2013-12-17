@@ -16,7 +16,7 @@
       {
         "startDate":"1999,3",
         "headline":"La Dirección de Sistemas a fines de los '90",
-        "text": "A fines de los '90 el Ministerio de Trabajo no contaba todavía con sistemas propio. Los usuarios se conectaban de manera remota a las 'terminales bobas' de ANSES y utilizában sus aplicativos. Los compañeros con más años todavía recuerdan las letras verdes de las terminales.",
+        "text": "A fines de los '90 el <span class='c1'>Ministerio de Trabajo</span> no contaba todavía con sistemas propio. Los usuarios se conectaban de manera remota a las 'terminales bobas' de <span class='c1'>ANSES</span> y utilizában sus aplicativos. Los compañeros con más años todavía recuerdan las letras verdes de las terminales.",
         "asset":
         {
           "media":"assets/img/screenshots/sijp.png",
@@ -26,7 +26,7 @@
       {
         "startDate":"1999,5",
         "headline":"La crisis del año 2000",
-        "text": "En los modelos más antiguos de equipos se usaban dos dígitos para almacenar los años, esto es lo que dio lugar a lo que más tarde se conocería como la 'Crisis del año 2000' o simplemente la 'Crisis Y2K'.<br />Para hacer frente a dicha crisis numerosos sistemas de ANSES tuvieron que ser desarrollados desde cero, migrando toda su información, en una carrera contra reloj antes de que llegara fin de año.",
+        "text": "En los modelos más antiguos de equipos se usaban dos dígitos para almacenar los años, esto es lo que dio lugar a lo que más tarde se conocería como la <span class='c2'>Crisis del año 2000</span> o simplemente la <span class='c2'>Crisis del Y2K</span>.<br /><br />Para hacer frente a dicha crisis numerosos sistemas de <span class='c1'>ANSES</span> tuvieron que ser desarrollados desde cero, migrando toda su información, en una carrera contra reloj antes de que llegara fin de año.",
         "asset":
         {
           "media":"assets/img/screenshots/y2k_crisis.png",
@@ -35,8 +35,8 @@
       },
       {
         "startDate":"1999,7",
-        "headline":"Sistema de Mesa de Entradas General, Resoluciones Electrónicas y Notificaciones",
-        "text": "Desarrollado para la Dirección de Despacho, el sistema de Mesa de Entradas General permite la gestión de la totalidad de los expedientes del Ministerio. Es utilizado a diario por más de 3.000 usuarios en todo el país. Actualmente contiene la información sobre 9.000.000 de documentos con sus 19.000.000 de pases. <br /><br />Para esa fecha también tuvieron que ser desarrollados las primeras versiones del Sistema de Resoluciones Electrónicas y de Notificaciones, a fin de hacer frente a la crisis del Y2K.",
+        "headline":"Sistema de Mesa de Entradas General, Resoluciones y Notificaciones",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Despacho</span>, el sistema permite gestionar todos de los expedientes del Ministerio. Actualmente es utilizado a diario por más de <span class='c2'>3.000 usuarios</span> en todo el país, y contiene la información sobre <span class='c2'>9.000.000 de documentos</span> con sus <span class='c2'>19.000.000 de pases</span>. <br /><br />Para esa fecha también se desarrollaron el <span class='c1'>Sistema de Resoluciones Electrónicas</span> y el de <span class='c1'>Notificaciones</span>, a fin de hacer frente a la <span class='c2'>crisis del Y2K</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/mesa.png",
@@ -47,7 +47,7 @@
       {
         "startDate":"2000,7",
         "headline":"Sistema de Liquidación de Fondos Rotatorios",
-        "text": "Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite el registro, liquidación y control de los fondos rotatorios. Mediante este sistema, al día de la fecha se han efectuado más de 26.000 liquidaciones.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite el registro, liquidación y control de los fondos rotatorios. Mediante este sistema, al día de la fecha se han efectuado más de <span class='c2'>26.000 liquidaciones</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/fondos.png",
@@ -58,7 +58,7 @@
       {
         "startDate":"2004,3",
         "headline":"Sistema del Centro de Asesoriamento Laboral",
-        "text": "Desarrollado para el Callcenter del Ministerio, el sistema permite la gestión y almacenar todas la consultas telefónicas que realizan los ciudadanos por planes de empleo, programas de capacitación o cuestiones laborales.<br /><br /> Actualmente el sistema lleva registrados más de 1.400.000 llamados, entre consultas y denuncias.",
+        "text": "Desarrollado para el <span class='c1'>Centro de Asesoramiento Laboral</span>, el sistema Callcenter permite gestionar y almacenar todas la consultas telefónicas que realizan los ciudadanos por planes de empleo, programas de capacitación o cuestiones laborales.<br /><br /> Actualmente el sistema lleva registrados más de <span class='c2'>1.400.000 llamados</span> entre consultas y denuncias.",
         "asset":
         {
           "media":"assets/img/screenshots/callcenter.png",
@@ -68,7 +68,7 @@
       {
         "startDate":"2004,11",
         "headline":"Sistema de Dictámenes y Recursos",
-        "text": "Desarrollado para la Dirección de Dictámenes y Recursos, el sistema permite la gestión de los escritos elaborados por los abogados dictaminantes.<br /><br /> El sistema registra hoy más de 25.000 documentos, entre dictámenes y recursos, elaborados a lo largo de estos años por más de 50 profesionales del área.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Dictámenes y Recursos</span>, el sistema permite la gestión de los escritos elaborados por los abogados dictaminantes.<br /><br /> Hoy en día cuenta con más de <span class='c2'>25.000 documentos</span>, entre dictámenes y recursos, elaborados a lo largo de estos años por más de <span class='c2'>50 profesionales</span> del área.",
         "asset":
         {
           "media":"assets/img/screenshots/dictamenes.png",
@@ -78,7 +78,7 @@
       {
         "startDate":"2005,08",
         "headline":"Sistema de Postulantes",
-        "text": "Desarrollado para la Dirección de Recursos Humanos, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al Ministerio de Trabajo. En base a la información ingresada por los postulantes, se ha elaborado una completa base de datos que el personal de la Dirección consulta a la hora de efectuar una convocatoria.<br /><br /> Parte del alta del CV sirvió de base para el posterior Sistema Concursar.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Recursos Humanos</span>, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al <span class='c1'>Ministerio de Trabajo</span>. En base a la información ingresada por los postulantes, se ha elaborado una completa base de datos que el personal de la Dirección consulta a la hora de efectuar una convocatoria.<br /><br /> Parte del alta del CV sirvió de base para el posterior <span class='c1'>Sistema Concursar</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/postulantes.png",
@@ -86,12 +86,72 @@
         }
       },
       {
+        "startDate":"2006,01",
+        "headline":"Sistema de Acciones Judiciales",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Acciones Judiciales</span>permite llevar adelante la representación del Ministerio de Trabajo ante la justicia. Actualmente es utilizado por más de <span class='c2'>150 abogados</span> y <span class='c2'>40 dependencias</span> de todo el país. Al día de la fecha el sistema ha permitido la gestión de más de <span class='c2'>120.000 casos</span> en los cuales los abogados representan al Ministerio ante la justicia, <span class='c2'>130.000 expedientes administrativos</span> y <span class='c2'>87.000 boletas de pago</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/juicios.png",
+          "caption":""
+        }
+      },
+      {
         "startDate":"2006,10",
         "headline":"Sistema de Liquidación de Viáticos",
-        "text": "Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso, se registraron más de 90.000 liquidaciones de viáticos para cerca de 2.700 agentes. El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.",
+        "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso, se registraron más de <span class='c2'>90.000 liquidaciones de viáticos</span> para cerca de <span class='c2'>2.700 agentes</span>. <br /><br />El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.",
         "asset":
         {
           "media":"assets/img/screenshots/viaticos.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2007,02",
+        "headline":"Sistema de Gestión de Resoluciones de Trabajo Agrario",
+        "text": "Desarrollado para la <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, el sistema permite registrar y consultar toda a normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de <span class='c2'>1.400 resoluciones</span> atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página wbe del <span class='c1'>Ministerio de Trabajo</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/trabajo_agrario.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2010,06",
+        "headline":"Sistema de Sumarios Administrativos",
+        "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno.<br /><br /> El equipo de profesionales de la <span class='c1'>Dirección de sistemas</span> tomó el proyecto y lo adaptó a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/sumarios.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2010,04",
+        "headline":"Sistema de Concursos para la Administración Pública Nacional",
+        "text": "Sistema diseñado junto con el personal de la <span class='c1'>Dirección de Recursos Humanos</span> para llevar adelante la convocatoria a concursos en el marco del sectorial <span class='c1'>SINEP</span>. Ha permitido que <span class='c2'>miles de postulantes</span> se presentaran para ocupar cargos en el <span class='c1'>Ministerio de Trabajo</span>.<br /><br />.El sistema ha tenido gran reconocimiento por parte de la <span class='c1'>Jefatura de Gabinete</span> y ha sido implementado en <span class='c2'>múltiples organismos de la APN</span> para llevar adelante el proceso de convocatorias a la cobertura de cargos mediante el sistema de concursos.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/concursar.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2010,08",
+        "headline":"Sistema de Notificaciones Web",
+        "text": "Reingeniería completa del <span class='c1'>Sistema de Notificaciones</span> adpatándolo a la tecnología web. El usuario principal del sistema es el <span class='c1'>Departamento de Oficios y Notificacaciones</span>, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: <span class='c1'>SECLO</span>, <span class='c1'>Tribunal de Trabajo Doméstico</span>, <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, <span class='c1'>Dirección de Relaciones Individuales</span>, <span class='c1'>Diarios y Revistas</span>, <span class='c1'>Contrataciones y Patrimonio</span>, entre otros.<br /><br />Actualmente permite planificar el trabajo de más de <span class='c2'>16 notificadores</span> y al día de la fecha se han registrado más de <span class='c2'>356.000 notificaciones</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/notificaciones_web.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2011,11",
+        "headline":"Consulta web del Sistema de Mesa de Entradas General",
+        "text": "Desarrollo de un buscador de expedientes en versión web de uso interno. El mismo es utilizado a diario por gran parte de los <span class='c2'>4.000 trabajadores del Ministerio</span> y ha permtido aliviar la carga de trabajo del sistema de alta de de Expedientes.<br /><br />También se ha desarrollado un buscador público de expedientes disponible para todos los ciudadanos en la página web del Ministerio.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/mesa_consulta_web.png",
           "caption":""
         }
       }
