@@ -35,8 +35,8 @@
       },
       {
         "startDate":"1999,7",
-        "headline":"Sistema de Mesa de Entradas General",
-        "text": "El sistema de Mesa de Entradas General fue desarrollado para la Dirección de Despacho, y permite la gestión de la totalidad de los expedientes del Ministerio. Es utilizado a diario por más de 3.000 usuario en todo el país. Actualmente contiene la información sobre 9.000.000 de documentos con sus 19.000.000 de pases. <br />Además, gran parte de los sistemas del Ministerio se comunican con el Sistema de Mesa de Entradas mediante interfaces automáticas desarrolladas a tal efecto.",
+        "headline":"Sistema de Mesa de Entradas General, Resoluciones Electrónicas y Notificaciones",
+        "text": "Desarrollado para la Dirección de Despacho, el sistema de Mesa de Entradas General permite la gestión de la totalidad de los expedientes del Ministerio. Es utilizado a diario por más de 3.000 usuarios en todo el país. Actualmente contiene la información sobre 9.000.000 de documentos con sus 19.000.000 de pases. <br /><br />Para esa fecha también tuvieron que ser desarrollados las primeras versiones del Sistema de Resoluciones Electrónicas y de Notificaciones, a fin de hacer frente a la crisis del Y2K.",
         "asset":
         {
           "media":"assets/img/screenshots/mesa.png",
