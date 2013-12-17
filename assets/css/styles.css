@@ -200,7 +200,8 @@ section, footer, header{
 #timeline .slider-item p {
   font-family:'Antic Slab','Segoe UI',sans-serif;
   color:#ddd;
-  font-size: 16px;
+  /*font-size: 16px;*/
+  font-size: 0.9em;
   line-height: 26px;
 }
 
@@ -213,12 +214,18 @@ section, footer, header{
 /* Customizing the first slide - the cover */
 
 #timeline .slider-item:nth-child(1) h2{
-  font:normal 55px/1 'Antic Slab','Segoe UI',sans-serif;
+  font: normal 35px 'Antic Slab','Segoe UI',sans-serif;
   background: rgba(0,0,0,0.3);
   white-space: nowrap;
   padding: 10px 5px 5px 20px;
   z-index: 10;
 }
+/*
+#timeline .slider-item:nth-child(1) {
+  background: url('../img/original/mtss/mtss_bandera_test.png');
+  background-repeat: no-repeat;
+}
+*/
 
 /*
 #timeline .slider-item:nth-child(1) p i{
@@ -230,18 +237,22 @@ section, footer, header{
 }
 */
 
-#timeline .slider-item:nth-child(1) p {
+#timeline .slider-item .home-title {
   font-family:'Antic Slab','Segoe UI',sans-serif;
   color:#ddd;
-  font-size: 16px;
+  font-size: 0.9em;
   line-height: 26px;
 }
 
-#timeline .slider-item p .c1{
+#timeline .slider-item .home-title img {
+  border: 1px solid #999999;
+}
+
+#timeline .slider-item .c1{
   color: #1bdff0;
 }
 
-#timeline .slider-item p .c2{
+#timeline .slider-item .c2{
   color: #c92fe6;
 }
 

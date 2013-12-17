@@ -2,14 +2,13 @@
 {
   "timeline":
   {
-    "headline":"Construyendo trabajo",
+    "headline":"Construyendo Trabajo",
     "type":"default",
     "startDate":"1999,1",
 
-    "text": "Hace años que los trabajadores de Sistemas del Ministerio de Trabajo venimos haciendo lo que mejor sabemos hacer: desarrollar sistemas trabajando codo a codo con el resto de nuestros compañeros del Ministerio.<br /><br />Hoy queremos compartir con ustedes el fruto de estos últimos <span class='c1'>15 años de trabajo</span>. Porque estamos orgullosos de lo que hemos logrado. Porque hace mucho que elegimos trabajar para el Estado. Porque queremos seguir <span class='c2'>construyendo el Ministerio de Trabajo</span>. Y porque no queremos que nadie venga a tirar abajo esto que tanto esfuezo nos costó construir.",
+    "text": "<div class='home-title'>Hace años que los trabajadores de Sistemas del Ministerio de Trabajo venimos haciendo lo que mejor sabemos hacer: desarrollar sistemas trabajando codo a codo con el resto de nuestros compañeros del Ministerio.<br /><center><img src='assets/img/screenshots/mtss_bandera.png' /></center>Hoy queremos compartir con ustedes el fruto de estos últimos <span class='c1'>15 años de trabajo</span>. Porque estamos orgullosos de lo que hemos logrado. Porque hace mucho que elegimos trabajar para el Estado. Porque queremos seguir <span class='c2'>construyendo el Ministerio de Trabajo</span>. Y porque no queremos que nadie venga a tirar abajo esto que tanto esfuezo nos costó construir.</div>",
     "asset":
     {
-      "media":"assets/img/notes.png",
       "caption":""
     },
     "date": [
@@ -118,7 +117,7 @@
       {
         "startDate":"2010,06",
         "headline":"Sumarios Administrativos",
-        "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno.<br /><br /> El equipo de profesionales de la <span class='c1'>Dirección de sistemas</span> tomó el proyecto y lo adaptó a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.",
+        "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno. Los trabajadores de la <span class='c1'>Dirección de sistemas</span> adaptamos el proyecto a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.<br /><br />Actualmente hay más de <span class='c2'>250 sumarios</span> e informaciones sumarias ingresadas al sistema.",
         "asset":
         {
           "media":"assets/img/screenshots/sumarios.png",
