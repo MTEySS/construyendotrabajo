@@ -331,6 +331,17 @@
           "media":"assets/img/screenshots/convenios_negociacion.png",
           "caption":""
         }
+      },
+
+      {
+        "startDate":"2013,12",
+        "headline":"Trabajadores contra la tercerización",
+        "text": "A pesar de tanto esfuerzo y compromiso que los trabajadores hemos puesto en todos estos años, hoy nuestras tareas están siendo tercerizadas, firmando contratos millonarios con consultoras privadas y poniendo información sensible en manos de terceros.<br /><br /><span class='c1'>Somos trabajadore estatales y estamos orgullosos de todo lo que hemos hecho por este Ministerio</span>.<br /><br /><span class='c1'>Simplemente queremos que nos dejen seguir haciendo nuestro trabajo</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/mtss_bandera_2.png",
+          "caption":""
+        }
       }
 
     ]
