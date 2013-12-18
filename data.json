@@ -259,7 +259,7 @@
         }
       },
       {
-        "startDate":"2010,04",
+        "startDate":"2010,02",
         "headline":"Concursos para la Administración Pública Nacional",
         "text": "Sistema diseñado junto con el personal de la <span class='c1'>Dirección de Recursos Humanos</span> para llevar adelante la convocatoria a concursos en el marco del sectorial <span class='c1'>SINEP</span>. Ha permitido que <span class='c2'>miles de postulantes</span> se presentaran para ocupar cargos en el <span class='c1'>Ministerio de Trabajo</span>.<br /><br />.El sistema ha tenido gran reconocimiento por parte de la <span class='c1'>Jefatura de Gabinete</span> y ha sido implementado en <span class='c2'>múltiples organismos de la APN</span> para llevar adelante el proceso de convocatorias a la cobertura de cargos mediante el sistema de concursos.",
         "asset":
@@ -269,7 +269,7 @@
         }
       },
       {
-        "startDate":"2010,08",
+        "startDate":"2010,04",
         "headline":"Certificación de calidad de la Biblioteca Digital de Convenios Colectivos",
         "text": "En agosto de 2010 el buscador de negociación colectiva de la <span class='c1'>Biblioteca Digital de Convenios Colectivos</span> fue certificado bajo las normas de calidad <span class='c1'>ISO 9001:2008</span>. Al día de la fecha se encuentran registrados más de <span class='c2'>16.000 Convenios, Acuerdos y Laudos</span>, firmados por <span class='c2'>3.500 sindicatos</span> y casi <span class='c2'>5.000 empleadores</span>.",
         "asset":
@@ -280,7 +280,27 @@
       },
 
       {
+        "startDate":"2011,01",
+        "headline":"La presidenta presenta el Inspector Digital",
+        "text": "Habiéndose declarado oficialmente el año 2011 como el <span class='c1'>Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores</span>, la Presidenta <span class='c2'>Cristina Fernández de Kirchner</span> presenta en el Salón de las Mujeres Argentinas del Bicentenario el proyecto informático <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el cual permite a los inspectores del <span class='c1'>Ministerio de Trabajo</span> disponer de equipos portátiles para controlar en tiempo real las condiciones laborales.",
+        "asset":
+        {
+          "media":"http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39",
+          "caption":"La Presidenta presenta con orgullo el Inspector Digital"
+        }
+      },
+      {
         "startDate":"2011,02",
+        "headline":"Carlos Tomada presenta el Inspector Digital",
+        "text": "Haciendo uso de la palabra en el acto de presentación del <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el Ministro <span class='c2'>Carlos Tomada</span> destaca que 'el proceso de la detección del trabajo en negro llevaba 40 días, hoy llevará tan sólo un día, y se hará en el mismo lugar de los hechos'.<br /><br />Y luego agrega 'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rapidamente, y sí saben que les vamos a aplicar la multa rápidamente.'",
+        "asset":
+        {
+          "media":"http://www.youtube.com/watch?v=_1CQJqR5gps",
+          "caption":"La Ministro Carlos Tomada presenta el Inspector Digital"
+        }
+      },
+      {
+        "startDate":"2011,07",
         "headline":"Notificaciones Web",
         "text": "Reingeniería completa del <span class='c1'>Sistema de Notificaciones</span> adpatándolo a la tecnología web. El usuario principal del sistema es el <span class='c1'>Departamento de Oficios y Notificacaciones</span>, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: <span class='c1'>SECLO</span>, <span class='c1'>Tribunal de Trabajo Doméstico</span>, <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, <span class='c1'>Dirección de Relaciones Individuales</span>, <span class='c1'>Diarios y Revistas</span>, <span class='c1'>Contrataciones y Patrimonio</span>, entre otros.<br /><br />Actualmente permite planificar el trabajo de más de <span class='c2'>16 notificadores</span> y al día de la fecha se han registrado más de <span class='c2'>356.000 notificaciones</span>.",
         "asset":
@@ -290,7 +310,7 @@
         }
       },
       {
-        "startDate":"2011,6",
+        "startDate":"2011,9",
         "headline":"Sistema para la gestión de Documentos - CEDET",
         "text": "Implementación de una biblioteca en línea para la gestión documental del <span class='c2'>CEDET</span>. Es un servicio web gratuito que tiene como finalidad conformar una base de conocimiento sobre el mundo del trabajo y las politicas de empleo.<br /><br />Se trata de un instrumento de conocimiento para orientar decisiones y estrategias, una herramienta para sistematizar y organizar la información en la red y distribuirla a través de un único punto de acceso. Permite la creación de productos editoriales personalizados, en respuesta a las necesidades de los 'clientes' internos y externos, etc.",
         "asset":
@@ -312,6 +332,17 @@
       },
 
       {
+        "startDate":"2012,06",
+        "headline":"Gestión de la Negociación Colectiva",
+        "text": "Continuando con la informatización completa de todas las áreas involucradas en el circuito de gestión de la <span class='c1'>Negociación Colectiva</span>, luego de desarrollar la <span class='c1'>Biblioteca Digital de Convenios Colectivos</span>, y el <span class='c1'>Sistema de Gestión de la Negociación Colectiva</span>, se procede al desarrollo del <span class='c1'>Sistema de Gestión para la Dirección de Negociación Colectiva</span>.<br /><br />Este sistema está actualmente en desarrollo.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/convenios_negociacion.png",
+          "caption":""
+        }
+      },
+
+      {
         "startDate":"2012,09",
         "headline":"Balance a nueve años de PNRT",
         "text": "La primera versión del sistema <span class='c1'>PNRT</span> se implementó en septiembre de 2003, a los pocos meses ya se habían registrado <span class='c2'>90.000 fiscalizaciones</span> y se habían relevado más de <span class='c2'>300.000 trabajadores</span>.<br /><br /> Luego de nueve años de uso continuo, y con nuevos aplicativos como el <span class='c1'>Inspector Digital</span> ya es posible hacer un balance. En todo este tiempo se han implementado <span class='c2'>225 versiones</span> del sistema <span class='c1'>PNRT</span>, se registraron <span class='c2'>1.150.000 fiscalizaciones</span> y se relevaron <span class='c2'>3.400.000 trabajadores</span>. A su vez la tasa de trabajo no registrado, que a principios de 2003 rondaba el <span class='c2'>45%</span>, a mediados del 2012 había caido al <span class='c2'>34.5%</span>.",
@@ -322,16 +353,6 @@
         }
       },
 
-      {
-        "startDate":"2013,01",
-        "headline":"Gestión de la Negociación Colectiva",
-        "text": "Continuando con la informatización completa de todas las áreas involucradas en el circuito de gestión de la <span class='c1'>Negociación Colectiva</span>, luego de desarrollar la <span class='c1'>Biblioteca Digital de Convenios Colectivos</span>, y el <span class='c1'>Sistema de Gestión de la Negociación Colectiva</span>, se procede al desarrollo del <span class='c1'>Sistema de Gestión para la Dirección de Negociación Colectiva</span>.<br /><br />Este sistema está actualmente en desarrollo.",
-        "asset":
-        {
-          "media":"assets/img/screenshots/convenios_negociacion.png",
-          "caption":""
-        }
-      },
 
       {
         "startDate":"2013,12",
