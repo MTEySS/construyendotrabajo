@@ -34,7 +34,7 @@
       },
       {
         "startDate":"1999,7",
-        "headline":"Mesa de Entradas General, Resoluciones y Notificaciones",
+        "headline":"Mesa de Entradas, Resoluciones y Notificaciones",
         "text": "Desarrollado para la <span class='c1'>Dirección de Despacho</span>, el sistema permite gestionar todos los expedientes del Ministerio. Actualmente es utilizado a diario por más de <span class='c2'>3.000 usuarios</span> en todo el país, y contiene la información de más de <span class='c2'>5.000.000 de documentos</span> con sus <span class='c2'>22.000.000 de pases</span>. <br /><br />Para esa fecha también se desarrollaron el <span class='c1'>Sistema de Resoluciones Electrónicas</span> y el de <span class='c1'>Notificaciones</span>, a fin de hacer frente a la <span class='c2'>crisis del Y2K</span>.",
         "asset":
         {
@@ -45,7 +45,7 @@
 
       {
         "startDate":"2000,7",
-        "headline":"Liquidación de Fondos Rotatorios y Liquidación de Gastos",
+        "headline":"Fondos Rotatorios y Liquidación de Gastos",
         "text": "Desarrollado para la <span class='c1'>Dirección de Administración y Control Presupuestario</span>, el sistema permite el registro, liquidación y control de los fondos rotatorios, así como la liquidación de gastos para el pago de proveedores. Mediante este sistema, al día de la fecha se han efectuado más de <span class='c2'>26.000 liquidaciones</span>.",
         "asset":
         {
@@ -53,6 +53,40 @@
           "caption":""
         }
       },
+
+      {
+        "startDate":"2001,3",
+        "headline":"Gestión de Proyectos y Fiscalización del Seguro por Desempleo",
+        "text": "El año 2001 marca el inicio de las primeras herramientas informáticas desarrolladas específicamente para la <span class='c1'>Secretaría de Empleo</span>. El sistema de <span class='c1'>Gestión de Proyectos</span> permite registrar y efectuar el control de los diversos proyectos de la Secretaría, mientras que el <span class='c1'>Sistema de Fiscalización de Seguro por Desempleo</span> permite efectuar el control de la prestación que corresponde a todo trabajador en relación de dependencia que es despedido.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/proyectos_empleo.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2002,4",
+        "headline":"Lanzamiento del Programa Jefas y Jefes de Hogar",
+        "text": "En respuesta a una de las mayores crisis sociales, económicas e institucionales acontecidas en la Argentina, se desarrollaron en tiempo récord un conjunto de sistemas que permitieron registrar y empadronar cerca de <span class='c2'>1,500,000 beneficiarios</span>.<br /><br />El sistema permitía operar 'on line' y también de manera asincrónica en aquellos lugares del país donde no se disponía de conexión. Fue utilizado por más de <span class='c2'>4000 municipios</span> distribuidos en todo el país para la liquidación de casi <span class='c2'>2.000.000 de planes sociales</span> de manera mensual.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/jefas_y_jefes_de_hogar.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2003,1",
+        "headline":"Nuevos sistemas para la Secretaría de Empleo",
+        "text": "A lo largo del año 2003 se implementan múltiples sistemas para la <span class='c1'>Secretaría de Empleo</span> orientados a facilitar la gestión y control del cobro de los planes sociales.<br /><br />Entre los sistemas implementados podemos nombrar: <span class='c1'>Ingreso de Adhesiones y Novedades por Correo Electrónico</span>, <span class='c1'>Registro de Beneficiarios y Liquidación de Beneficios</span>, <span class='c1'>Fizcalización y Seguimientos de Proyectos</span>, <span class='c1'>Gestión de Tarjetas magnéticas</span>, <span class='c1'>Gestión de acreditaciones y pagos de beneficios de Planes Sociales</span> entre otros.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/proyectos_empleo.png",
+          "caption":""
+        }
+      },
+
       {
         "startDate":"2003,9",
         "headline":"Plan Nacional de Regularización del Trabajo",
@@ -64,6 +98,7 @@
         }
       },
 
+
       {
         "startDate":"2004,3",
         "headline":"Centro de Asesoriamento Laboral",
@@ -74,6 +109,18 @@
           "caption":""
         }
       },
+
+      {
+        "startDate":"2004,6",
+        "headline":"Gestión de Tarjetas Magnéticas",
+        "text": "En el marco del lanzamiento del <span class='c1'>Plan Tarjeta Social</span>, se lleva adelante el desarrollo del <span class='c1'>Sistema de Gestión de Tarjetas Magnéticas</span>, el cual permite el registro y gestión junto al <span class='c1'>Banco de la Nación Argentina</span> de más de <span class='c2'>1,500,000 de tarjetas magnéticas</span> y la acreditación de millones de beneficios correspondientes a programas sociales en las cuentas de los beneficiarios en el <span class='c1'>BNA</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/tarjeta_social.png",
+          "caption":""
+        }
+      },
+
       {
         "startDate":"2004,11",
         "headline":"Dictámenes y Recursos",
@@ -84,8 +131,31 @@
           "caption":""
         }
       },
+
       {
-        "startDate":"2005,08",
+        "startDate":"2004,6",
+        "headline":"Datawarehouse de la Secretaría de Empleo",
+        "text": "Se implementa el <span class='c1'>Datawarehouse de Empleo</span>, una aplicación de Business Intelligencede que brinda información para la toma de decisiones en línea.<br /><br />Se comienzan a mostrar indicadores de información registrada en los primeros años de gestión. Nace una herramienta para la toma de decisiones a alto nivel.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/datawarehouse_empleo.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2005,7",
+        "headline":"Biblioteca Digital de Convenios Colectivos de Trabajo",
+        "text": "Desarrollado para la <span class='c1'>Secretaría de Trabajo</span> consistió en un trabajo de migración de la antigua base de datos de Convenios y Acuerdos que se encontraba guardada en múltiples archivos Excel. El sistema permite cargar la totalidad de los contenidos de la <span class='c1'>negociación colectiva</span>. El sistema cuenta con un completo sistema de categorización de los contenidos elaborado por los usuarios de la <span class='c1'>Secretaría de Trabajo</span> expertos en la materia.<br /><br />Al día de la fecha se encuentran registrados más de <span class='c2'>16.000 Convenios, Acuerdos y Laudos</span>, firmados por <span class='c2'>3.500 sindicatos</span> y casi <span class='c2'>5.000 empleadores</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/convenios_digitalizacion.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2005,8",
         "headline":"Postulantes",
         "text": "Desarrollado para la <span class='c1'>Dirección de Recursos Humanos</span>, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al <span class='c1'>Ministerio de Trabajo</span>. Hacia fines de 2008 el <span class='c1'>Ministerio</span> ya contaba con una completa base de trabajadores con los más de <span class='c2'>70.000 postulantes</span> que ingresaron sus datos.<br /><br /> El alta del CV que ven en la pantalla sirvió de base para el posterior <span class='c1'>Sistema Concursar</span>.",
         "asset":
@@ -94,6 +164,18 @@
           "caption":""
         }
       },
+
+      {
+        "startDate":"2005,11",
+        "headline":"Seguimiento gráfico de expedientes del PNRT",
+        "text": "El equipo de desarrollo de la <span class='c1'>Secretaría de Trabajo</span> desarrolla un sistema de workflow a medida de la <span class='c1'>Subsecretaría de Fiscalización</span>. Se trata de un módulo del <span class='c1'>PNRT</span> que permite mostrar de manera gráfica todo el workflow y los cambios de estado seguidos por cada expediente. Se trata de una herramienta gráfica que permite visualizar dinámicamente los más de treinta posibles estados por los que puede pasar un trámite del <span class='c1'>PNRT</span>, permitiéndole al usuario identificar a simple vista los desvíos y atrasos en la tramitación de las fiscalizaciones.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/fiscalizacion_workflow.png",
+          "caption":""
+        }
+      },
+
       {
         "startDate":"2006,01",
         "headline":"Acciones Judiciales",
@@ -101,6 +183,16 @@
         "asset":
         {
           "media":"assets/img/screenshots/juicios.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2006,5",
+        "headline":"Portal de Empleo",
+        "text": "En el marco del <span class='c1'>Seguro de Capacitación y Empleo</span> se implementa el <span class='c1'>Portal de Empleo</span> en colaboración internacional con <span class='c1'>Italia Lavoro</span>, constituyendo una nueva herramienta para acercar al Ministerio a los ciudadanos que permite la intermediación laboral integrando la oferta de capacitación y laboral del organismo con las necesidades de los ciudadanos.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/portal.png",
           "caption":""
         }
       },
@@ -125,7 +217,39 @@
         }
       },
       {
-        "startDate":"2010,06",
+        "startDate":"2007,12",
+        "headline":"Gestión de la Negociación Colectiva",
+        "text": "Desarrollado para la <span class='c1'>Dirección Nacional de Regulaciones del Trabajo</span> Actualmente a través de este sistema se han registrado más de <span class='c2'>19.000 trámites</span> en los cuales el personal de la <span class='c1'>DNRT</span> analiza y elabora informes detallados acerca de cada convenio que se homologa en el <span class='c1'>Ministerio de Trabajo</span> para ser elevados a la <span class='c1'>Secretaria de Trabajo</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/convenios_gestion.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2008,1",
+        "headline":"Programa Jóvenes con más y mejor trabajo",
+        "text": "Un nuevo programa que será gestionado a través de las herramientas ya desarrolladas y adecuadas según las necesidades específicas de esta nueva iniciativa. Se implementa también en <span class='c1'>Sistema de Planificacion de visitas de Seguimiento Técnico</span>, consistente en una serie de formularios que permitan el registro y control de las tareas del seguimiento de los proyectos.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/seguimiento_tecnico.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2009,1",
+        "headline":"Crédito Fiscal",
+        "text": "Se implementa el programa de <span class='c1'>Crédito Fiscal</span>, una serie de incentivos para Pymes y grandes empresas que generen proyectos de capacitación para los trabajadores. A tal fin, se desarrolla un aplicativo informático para la presentación, evaluación y aprobación de proyectos de <span class='c1'>Crédito Fiscal</span>, integrándolo además con los demás sistemas existentes.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/credito_fiscal.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2009,06",
         "headline":"Sumarios Administrativos",
         "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno. Los trabajadores de la <span class='c1'>Dirección de sistemas</span> adaptamos el proyecto a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.<br /><br />Actualmente hay más de <span class='c2'>250 sumarios</span> e informaciones sumarias ingresadas al sistema.",
         "asset":
@@ -146,6 +270,17 @@
       },
       {
         "startDate":"2010,08",
+        "headline":"Certificación de calidad de la Biblioteca Digital de Convenios Colectivos",
+        "text": "En agosto de 2010 el buscador de negociación colectiva de la <span class='c1'>Biblioteca Digital de Convenios Colectivos</span> fue certificado bajo las normas de calidad <span class='c1'>ISO 9001:2008</span>. Al día de la fecha se encuentran registrados más de <span class='c2'>16.000 Convenios, Acuerdos y Laudos</span>, firmados por <span class='c2'>3.500 sindicatos</span> y casi <span class='c2'>5.000 empleadores</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/convenios-digitalizacion-certificado-ISO.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2011,02",
         "headline":"Notificaciones Web",
         "text": "Reingeniería completa del <span class='c1'>Sistema de Notificaciones</span> adpatándolo a la tecnología web. El usuario principal del sistema es el <span class='c1'>Departamento de Oficios y Notificacaciones</span>, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: <span class='c1'>SECLO</span>, <span class='c1'>Tribunal de Trabajo Doméstico</span>, <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, <span class='c1'>Dirección de Relaciones Individuales</span>, <span class='c1'>Diarios y Revistas</span>, <span class='c1'>Contrataciones y Patrimonio</span>, entre otros.<br /><br />Actualmente permite planificar el trabajo de más de <span class='c2'>16 notificadores</span> y al día de la fecha se han registrado más de <span class='c2'>356.000 notificaciones</span>.",
         "asset":
@@ -155,12 +290,45 @@
         }
       },
       {
+        "startDate":"2011,6",
+        "headline":"Sistema para la gestión de Documentos - CEDET",
+        "text": "Implementación de una biblioteca en línea para la gestión documental del <span class='c2'>CEDET</span>. Es un servicio web gratuito que tiene como finalidad conformar una base de conocimiento sobre el mundo del trabajo y las politicas de empleo.<br /><br />Se trata de un instrumento de conocimiento para orientar decisiones y estrategias, una herramienta para sistematizar y organizar la información en la red y distribuirla a través de un único punto de acceso. Permite la creación de productos editoriales personalizados, en respuesta a las necesidades de los 'clientes' internos y externos, etc.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/cedet.png",
+          "caption":""
+        }
+      },
+
+      {
         "startDate":"2011,11",
         "headline":"Consulta web de Mesa de Entradas General",
         "text": "Desarrollo de un buscador de expedientes en versión web para uso interno. El mismo es utilizado a diario por gran parte de los <span class='c2'>4.000 trabajadores del Ministerio</span> y ha permtido aliviar la carga de trabajo del sistema de alta de de Expedientes.<br /><br />También se ha desarrollado un buscador público de expedientes disponible para todos los ciudadanos en la página web del Ministerio.",
         "asset":
         {
           "media":"assets/img/screenshots/mesa_consulta_web.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2012,09",
+        "headline":"Balance a nueve años de PNRT",
+        "text": "La primera versión del sistema <span class='c1'>PNRT</span> se implementó en septiembre de 2003, a los pocos meses ya se habían registrado <span class='c2'>90.000 fiscalizaciones</span> y se habían relevado más de <span class='c2'>300.000 trabajadores</span>.<br /><br /> Luego de nueve años de uso continuo, y con nuevos aplicativos como el <span class='c1'>Inspector Digital</span> ya es posible hacer un balance. En todo este tiempo se han implementado <span class='c2'>225 versiones</span> del sistema <span class='c1'>PNRT</span>, se registraron <span class='c2'>1.150.000 fiscalizaciones</span> y se relevaron <span class='c2'>3.400.000 trabajadores</span>. A su vez la tasa de trabajo no registrado, que a principios de 2003 rondaba el <span class='c2'>45%</span>, a mediados del 2012 había caido al <span class='c2'>34.5%</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/fiscalizacion_balance.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2013,01",
+        "headline":"Gestión de la Negociación Colectiva",
+        "text": "Continuando con la informatización completa de todas las áreas involucradas en el circuito de gestión de la <span class='c1'>Negociación Colectiva</span>, luego de desarrollar la <span class='c1'>Biblioteca Digital de Convenios Colectivos</span>, y el <span class='c1'>Sistema de Gestión de la Negociación Colectiva</span>, se procede al desarrollo del <span class='c1'>Sistema de Gestión para la Dirección de Negociación Colectiva</span>.<br /><br />Este sistema está actualmente en desarrollo.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/convenios_negociacion.png",
           "caption":""
         }
       }

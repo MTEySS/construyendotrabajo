@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Antic Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Antic Slab'), local('AnticSlab-Regular'), url(http://themes.googleusercontent.com/static/fonts/anticslab/v1/8c9q46CAcsp9TiRX9KLgZBsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dancing Script'), local('DancingScript'), url(http://themes.googleusercontent.com/static/fonts/dancingscript/v3/DK0eTGXiZjN6yA8zAEyM2VhlQWQpSCpzb2Peu3I-Q34.woff) format('woff');
+}

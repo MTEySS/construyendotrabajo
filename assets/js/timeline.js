@@ -1518,7 +1518,8 @@ typeof jQuery != "undefined" && (jQuery.easing.jswing = jQuery.easing.swing, jQu
       timeline_width: 900,
       interval_width: 200,
       rows: [1, 1, 1],
-      multiplier: 6,
+      // multiplier: 6,  // custom
+      multiplier: 12,
       max_multiplier: 16,
       min_multiplier: 1,
       has_start_page: !1
