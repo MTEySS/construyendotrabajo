@@ -6,7 +6,7 @@
     "type":"default",
     "startDate":"1999,1",
 
-    "text": "<div class='home-title'>Hace años que los trabajadores de Sistemas del Ministerio de Trabajo venimos haciendo lo que mejor sabemos hacer: desarrollar sistemas trabajando codo a codo con el resto de nuestros compañeros del Ministerio.<br /><center><img src='assets/img/screenshots/mtss_bandera.png' /></center>Hoy queremos compartir con ustedes el fruto de estos últimos <span class='c1'>15 años de trabajo</span>. Porque estamos orgullosos de lo que hemos logrado. Porque hace mucho que elegimos trabajar para el Estado. Porque queremos seguir <span class='c2'>construyendo el Ministerio de Trabajo</span>. Y porque no queremos que nadie venga a tirar abajo esto que tanto esfuezo nos costó construir.</div>",
+    "text": "<div class='home-title'>Hace años que los trabajadores de Sistemas del Ministerio de Trabajo venimos haciendo lo que mejor sabemos hacer: desarrollar sistemas trabajando codo a codo con el resto de nuestros compañeros del Ministerio.<br /><center><img src='assets/img/screenshots/mtss_bandera.png' /></center>Hoy queremos compartir con ustedes algunos frutos de estos últimos <span class='c1'>15 años de trabajo</span>. Porque estamos orgullosos de lo que hemos logrado. Porque hace mucho que elegimos trabajar para el Estado. Porque queremos seguir <span class='c2'>construyendo el Ministerio de Trabajo</span>. Y porque no queremos que nadie venga a tirar abajo esto que tanto esfuezo nos costó construir.</div>",
     "asset":
     {
       "caption":""
@@ -68,7 +68,7 @@
       {
         "startDate":"2002,4",
         "headline":"Lanzamiento del Programa Jefas y Jefes de Hogar",
-        "text": "En respuesta a una de las mayores crisis sociales, económicas e institucionales acontecidas en la Argentina, se desarrollaron en tiempo récord un conjunto de sistemas que permitieron registrar y empadronar cerca de <span class='c2'>1,500,000 beneficiarios</span>.<br /><br />El sistema permitía operar 'on line' y también de manera asincrónica en aquellos lugares del país donde no se disponía de conexión. Fue utilizado por más de <span class='c2'>4000 municipios</span> distribuidos en todo el país para la liquidación de casi <span class='c2'>2.000.000 de planes sociales</span> de manera mensual.",
+        "text": "En respuesta a una de las mayores crisis sociales, económicas e institucionales de nuestra historia, se desarrollaron en tiempo récord un conjunto de sistemas que permitieron registrar y empadronar cerca de <span class='c2'>1,500,000 beneficiarios</span>.<br /><br />El sistema permitía operar 'en línea' y también mediante el envío de planillas electrónicas para aquellos lugares del país donde no se disponía de conexión. Fue utilizado por más de <span class='c2'>4000 municipios</span> distribuidos en todo el país para la liquidación de casi <span class='c2'>2.000.000 de planes sociales</span> de manera mensual.",
         "asset":
         {
           "media":"assets/img/screenshots/jefas_y_jefes_de_hogar.png",
@@ -79,7 +79,7 @@
       {
         "startDate":"2003,1",
         "headline":"Nuevos sistemas para la Secretaría de Empleo",
-        "text": "A lo largo del año 2003 se implementan múltiples sistemas para la <span class='c1'>Secretaría de Empleo</span> orientados a facilitar la gestión y control del cobro de los planes sociales.<br /><br />Entre los sistemas implementados podemos nombrar: <span class='c1'>Ingreso de Adhesiones y Novedades por Correo Electrónico</span>, <span class='c1'>Registro de Beneficiarios y Liquidación de Beneficios</span>, <span class='c1'>Fizcalización y Seguimientos de Proyectos</span>, <span class='c1'>Gestión de Tarjetas magnéticas</span>, <span class='c1'>Gestión de acreditaciones y pagos de beneficios de Planes Sociales</span> entre otros.",
+        "text": "A lo largo del año 2003 se implementan múltiples sistemas para la <span class='c1'>Secretaría de Empleo</span> orientados a facilitar la gestión y control del cobro de los planes sociales.<br /><br />Entre los sistemas implementados podemos nombrar: <span class='c1'>Ingreso de Adhesiones y Novedades por Correo Electrónico</span>, <span class='c1'>Fizcalización y Seguimientos de Proyectos</span>, <span class='c1'>Gestión de Tarjetas magnéticas</span>, <span class='c1'>Gestión de acreditaciones y pagos de beneficios de Planes Sociales</span> entre otros.",
         "asset":
         {
           "media":"assets/img/screenshots/proyectos_empleo.png",
@@ -90,7 +90,7 @@
       {
         "startDate":"2003,9",
         "headline":"Plan Nacional de Regularización del Trabajo",
-        "text": "Luego de una década de neoliberalismo a ultranza, en mayo del 2003 el país tenía una <span class='c2'>tasa de empleo no registrado del 44.8 %</span>. Es entonces cuando la <span class='c1'>Secretaría de Trabajo</span> se fija como un objetivo básico el fortalecimiento de las tareas de inspección y se comienza la construcción del <span class='c1'>Plan Nacional de Regularización del Trabajo</span>, también conocido como <span class='c1'>PNRT</span><br /><br />En Septiembre de 2003 se implementa la primera versión del aplicativo, a los pocos meses ya se habían registrado <span class='c2'>90.000 fiscalizaciones </span> y se habían relevado más de <span class='c2'>300.000 trabajadores</span>.",
+        "text": "Luego de una década de neoliberalismo a ultranza, con una <span class='c2'>tasa de empleo no registrado del 44.8%</span>, la <span class='c1'>Secretaría de Trabajo</span> se fija como objetivo fortalecer las tareas de inspección y lanza el <span class='c1'>Plan Nacional de Regularización del Trabajo</span>, también conocido como <span class='c1'>PNRT</span><br /><br />En Septiembre de 2003 se implementa su primera versión, a los pocos meses ya se habían registrado <span class='c2'>90.000 fiscalizaciones </span> y se habían relevado más de <span class='c2'>300.000 trabajadores</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/fiscalizacion.png",
@@ -135,7 +135,7 @@
       {
         "startDate":"2004,6",
         "headline":"Datawarehouse de la Secretaría de Empleo",
-        "text": "Se implementa el <span class='c1'>Datawarehouse de Empleo</span>, una aplicación de Business Intelligencede que brinda información para la toma de decisiones en línea.<br /><br />Se comienzan a mostrar indicadores de información registrada en los primeros años de gestión. Nace una herramienta para la toma de decisiones a alto nivel.",
+        "text": "Se implementa el <span class='c1'>Datawarehouse de Empleo</span>, una aplicación de Business Intelligencede que brinda información para la toma de decisiones en línea.<br /><br />Se comienzan a mostrar indicadores de información registrada en los primeros años de gestión. Nace una herramienta para la toma de decisiones.",
         "asset":
         {
           "media":"assets/img/screenshots/datawarehouse_empleo.png",
@@ -146,7 +146,7 @@
       {
         "startDate":"2005,7",
         "headline":"Biblioteca Digital de Convenios Colectivos de Trabajo",
-        "text": "Desarrollado para la <span class='c1'>Secretaría de Trabajo</span> consistió en un trabajo de migración de la antigua base de datos de Convenios y Acuerdos que se encontraba guardada en múltiples archivos Excel. El sistema permite cargar la totalidad de los contenidos de la <span class='c1'>negociación colectiva</span>. El sistema cuenta con un completo sistema de categorización de los contenidos elaborado por los usuarios de la <span class='c1'>Secretaría de Trabajo</span> expertos en la materia.<br /><br />Al día de la fecha se encuentran registrados más de <span class='c2'>16.000 Convenios, Acuerdos y Laudos</span>, firmados por <span class='c2'>3.500 sindicatos</span> y casi <span class='c2'>5.000 empleadores</span>.",
+        "text": "Desarrollado para la <span class='c1'>Secretaría de Trabajo</span>, consistió en la migración de la antigua base de datos de Convenios y Acuerdos que se encontraba guardada en múltiples archivos Excel. Permite cargar la totalidad de los contenidos de la <span class='c1'>negociación colectiva</span>, y cuenta con un sistema de clasificación de los contenidos elaborado por los usuarios del área expertos en la materia.<br /><br />Al día de la fecha se encuentran registrados más de <span class='c2'>16.000 Convenios y Acuerdos</span>, firmados por <span class='c2'>3.500 sindicatos</span> y casi <span class='c2'>5.000 empleadores</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/convenios_digitalizacion.png",
@@ -168,7 +168,7 @@
       {
         "startDate":"2005,11",
         "headline":"Seguimiento gráfico de expedientes del PNRT",
-        "text": "El equipo de desarrollo de la <span class='c1'>Secretaría de Trabajo</span> desarrolla un sistema de workflow a medida de la <span class='c1'>Subsecretaría de Fiscalización</span>. Se trata de un módulo del <span class='c1'>PNRT</span> que permite mostrar de manera gráfica todo el workflow y los cambios de estado seguidos por cada expediente. Se trata de una herramienta gráfica que permite visualizar dinámicamente los más de treinta posibles estados por los que puede pasar un trámite del <span class='c1'>PNRT</span>, permitiéndole al usuario identificar a simple vista los desvíos y atrasos en la tramitación de las fiscalizaciones.",
+        "text": "Se trata de un módulo del <span class='c1'>PNRT</span> desarrollado para la <span class='c1'>Subsecretaría de Fiscalización</span>, que permite visualizar todo el workflow y los cambios de estado seguidos por cada expediente. Se trata de una herramienta gráfica que permite analizar dinámicamente los más de treinta posibles estados por los que puede pasar un trámite del <span class='c1'>PNRT</span>, permitiéndole al usuario identificar a simple vista los desvíos y atrasos en la tramitación de las fiscalizaciones.",
         "asset":
         {
           "media":"assets/img/screenshots/fiscalizacion_workflow.png",
@@ -209,7 +209,7 @@
       {
         "startDate":"2007,02",
         "headline":"Resoluciones de Trabajo Agrario",
-        "text": "Desarrollado para la <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, el sistema permite registrar y consultar toda a normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de <span class='c2'>1.400 resoluciones</span> atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página web del <span class='c1'>Ministerio de Trabajo</span>.",
+        "text": "Desarrollado para la <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, el sistema permite registrar y consultar toda la normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de <span class='c2'>1.400 resoluciones</span> atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página web del <span class='c1'>Ministerio de Trabajo</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/trabajo_agrario.png",
@@ -228,15 +228,48 @@
       },
 
       {
-        "startDate":"2008,1",
+        "startDate":"2008,2",
+        "headline":"Registro de Empresas Eventuales",
+        "text": "Siendo las empresas eventuales uno de los colectivos de trabajadores que presenta una de las tasas más altas de trabajo no registrado, respondiendo a la solicitud de la <span class='c1'>Subsecretaría de Fiscalización</span>, se implementa el <span class='c1'>Sistema de Registro de Empresas Eventuales</span>, a fin de administrar el cobro de garantía y verificar la correcta registración de los trabajadores.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/eventuales.png",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2008,4",
         "headline":"Programa Jóvenes con más y mejor trabajo",
-        "text": "Un nuevo programa que será gestionado a través de las herramientas ya desarrolladas y adecuadas según las necesidades específicas de esta nueva iniciativa. Se implementa también en <span class='c1'>Sistema de Planificacion de visitas de Seguimiento Técnico</span>, consistente en una serie de formularios que permitan el registro y control de las tareas del seguimiento de los proyectos.",
+        "text": "Un nuevo programa para ser gestionado a través de las herramientas ya desarrolladas y adecuadas según las necesidades específicas de esta nueva iniciativa. Se implementa también en <span class='c1'>Sistema de Planificacion de visitas de Seguimiento Técnico</span>, consistente en una serie de formularios que permitan el registro y control de las tareas del seguimiento de los proyectos.",
         "asset":
         {
           "media":"assets/img/screenshots/seguimiento_tecnico.png",
           "caption":""
         }
       },
+
+      {
+        "startDate":"2008,7",
+        "headline":"Registro Único de Inspecciones, Infracciones y Sanciones",
+        "text": "Se implementa y se presenta en el <span class='c1'>Consejo Federal del Trabajo</span> el nuevo sistema de <span class='c1'>Registro Único de Inspecciones, Infracciones y Sanciones</span>, también conocido como <span class='c1'>RUIIS</span>, en donde se registra lo hecho en materia inspectiva en todo el territorio argentino por <span class='c1'>AFIP</span>, <span class='c1'>ANSES</span>, <span class='c1'>Ministerio de Trabajo de la Nación</span> y los demás <span class='c1'>ministerios provinciales</span>.<br /><br />Actualmente el sistema lleva registradas <span class='c2'>1.600.000 inspecciones</span> y <span class='c2'>610.000 infracciones</span>. También se ha implementado una interface automática con el sistema <span class='c1'>RETRA</span> de la <span class='c1'>AFIP</span> para actualizar a diario la información.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/ruiis.png",
+          "caption":""
+        }
+      },
+
+      {
+        "startDate":"2008,9",
+        "headline":"Gestión de Órdenes de Inspección",
+        "text": "A fin de poder dar respuesta a las denuncias laborales, se crea el Sistema de <span class='c1'>Gestión de Órdenes de Inspección</span>, también conocido como <span class='c1'>GOI</span>, a pedido de la <span class='c1'>Secretaría de Trabajo</span>.<br /><br />Al día de la fecha se han registrado más de <span class='c2'>32.000 denuncias</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/goi.png",
+          "caption":""
+        }
+      },
+
       {
         "startDate":"2009,1",
         "headline":"Crédito Fiscal",
@@ -249,9 +282,20 @@
       },
 
       {
+        "startDate":"2009,05",
+        "headline":"Recuperación Productiva",
+        "text": "En el marco de la situación de emergencia ocupacional, y con el fin de mantener los puestos de trabajo existentes y mejorar las condiciones laborales de los trabajadores, se lanza el <span class='c1'>Programa de Recuperación Productiva</span>. A fin de dar soporte a dicho programa se crea el sistema <span class='c1'>RePro</span>.<br /><br />Hoy en día en el sistema <span class='c1'>RePro</span> hay registradas más de <span class='c2'>8.000 empresas</span> participantes, permitiendo la gestión de <span class='c2'>17.000 proyectos</span> que alcanzan a <span class='c2'>370.000 trabajadores</span>.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/repro.png",
+          "caption":""
+        }
+      },
+
+      {
         "startDate":"2009,06",
         "headline":"Sumarios Administrativos",
-        "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno. Los trabajadores de la <span class='c1'>Dirección de sistemas</span> adaptamos el proyecto a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.<br /><br />Actualmente hay más de <span class='c2'>250 sumarios</span> e informaciones sumarias ingresadas al sistema.",
+        "text": "Este sistema fue desarrollado por el <span class='c1'>Instituto Nacional de Teconología Agropecuaria</span> (INTA) utilizando <span class='c2'>Software Libre</span>. Gracias a ello pudo ser compartido libremente con el <span class='c1'>Ministerio de Trabajo</span> sin costo alguno. Los trabajadores de la <span class='c1'>Dirección de Sistemas</span> adaptamos el proyecto a las necesidades específicas de la <span class='c1'>Dirección de Sumarios Administrativos</span>, agregando nuevos módulos y funcionalidades.<br /><br />Actualmente hay más de <span class='c2'>250 sumarios</span> e informaciones sumarias ingresadas al sistema.",
         "asset":
         {
           "media":"assets/img/screenshots/sumarios.png",
@@ -261,7 +305,7 @@
       {
         "startDate":"2010,02",
         "headline":"Concursos para la Administración Pública Nacional",
-        "text": "Sistema diseñado junto con el personal de la <span class='c1'>Dirección de Recursos Humanos</span> para llevar adelante la convocatoria a concursos en el marco del sectorial <span class='c1'>SINEP</span>. Ha permitido que <span class='c2'>miles de postulantes</span> se presentaran para ocupar cargos en el <span class='c1'>Ministerio de Trabajo</span>.<br /><br />.El sistema ha tenido gran reconocimiento por parte de la <span class='c1'>Jefatura de Gabinete</span> y ha sido implementado en <span class='c2'>múltiples organismos de la APN</span> para llevar adelante el proceso de convocatorias a la cobertura de cargos mediante el sistema de concursos.",
+        "text": "Sistema diseñado junto la <span class='c1'>Dirección de Recursos Humanos</span> para llevar adelante la convocatoria a concursos en el marco del sectorial <span class='c1'>SINEP</span>. Ha permitido que <span class='c2'>miles de postulantes</span> se presentaran para ocupar cargos en el <span class='c1'>Ministerio de Trabajo</span>.<br /><br />.El sistema ha tenido gran reconocimiento por parte de la <span class='c1'>Jefatura de Gabinete</span> y ha sido implementado en <span class='c2'>múltiples organismos de la APN</span> para llevar adelante el proceso de convocatorias a la cobertura de cargos mediante el sistema de concursos.",
         "asset":
         {
           "media":"assets/img/screenshots/concursar.png",
@@ -280,9 +324,20 @@
       },
 
       {
+        "startDate":"2010,12",
+        "headline":"Firma Digital en el PNRT",
+        "text": "Fruto del caudal de inspecciones producidas por el <span class='c1'>PNRT</span>, la <span class='c1'>Dirección de Resoluciones de la Fiscalización</span> debía protocolizar y resolver cientos de resoluciones por día. Es entonces que se incorpora la funcionalidad de <span class='c1'>protocolización automática</span> y la implementación de la <span class='c1'>firma digital</span> a fin de automatizar y agilizar la tarea.<br /><br />Esto ha permitido al Juez Administrativo llegar a protocolizar y resolver un promedio de <span class='c2'>300 expedientes por día</span>, contando a la fecha con más de <span class='c2'>140.000 resoluciones</span> firmadas.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/pnrt_firma_digital.png",
+          "caption":""
+        }
+      },
+
+      {
         "startDate":"2011,01",
         "headline":"La presidenta presenta el Inspector Digital",
-        "text": "Habiéndose declarado oficialmente el año 2011 como el <span class='c1'>Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores</span>, la Presidenta <span class='c2'>Cristina Fernández de Kirchner</span> presenta en el Salón de las Mujeres Argentinas del Bicentenario el proyecto informático <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el cual permite a los inspectores del <span class='c1'>Ministerio de Trabajo</span> disponer de equipos portátiles para controlar en tiempo real las condiciones laborales. (<a href='http://www.prensapolitica.com.ar/entrevistas-exclusivas/16722-cfk-trabajo-legal.html' target='_blank'>mas información</a>)",
+        "text": "Habiéndose declarado oficialmente el año 2011 como el <span class='c1'>Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores</span>, la Presidenta <span class='c2'>Cristina Fernández de Kirchner</span> presenta el <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el cual permite a los inspectores del <span class='c1'>Ministerio de Trabajo</span> controlar en tiempo real las condiciones laborales. (<a href='http://www.prensapolitica.com.ar/entrevistas-exclusivas/16722-cfk-trabajo-legal.html' target='_blank'>más información</a>)<br /><br />Paradójicamente, este es uno de los sistemas que <span class='c1'>hoy se está queriendo tercerizar con consultoras externas</span>...",
         "asset":
         {
           "media":"http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39",
@@ -292,17 +347,17 @@
       {
         "startDate":"2011,02",
         "headline":"Carlos Tomada presenta el Inspector Digital",
-        "text": "Haciendo uso de la palabra en el acto de presentación del <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el Ministro <span class='c2'>Carlos Tomada</span> destaca que <i>'el proceso de la detección del trabajo en negro llevaba cuarenta días, <span class='c1'>hoy llevará tan sólo un día</span>, y se hará en el mismo lugar de los hechos'</i>.<br /><br />Y luego agrega <i>'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rapidamente, y sí saben que les vamos a aplicar la multa rápidamente.'</i> (<a href='http://www.prensapolitica.com.ar/candidatos-2011/24947-carlos-tomada-ahora-sabran-que-los-vamos-a-encontrar-y-juzgar.html' target='_blank'>mas información</a>)",
+        "text": "Haciendo uso de la palabra en el acto de presentación del <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el Ministro <span class='c2'>Carlos Tomada</span> destaca que <i>'el proceso de la detección del trabajo en negro llevaba cuarenta días, <span class='c1'>hoy llevará tan sólo un día</span>, y se hará en el mismo lugar de los hechos'</i>.<br /><br />Y luego agrega <i>'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rápidamente, y sí saben que les vamos a aplicar la multa rápidamente.'</i> (<a href='http://www.prensapolitica.com.ar/candidatos-2011/24947-carlos-tomada-ahora-sabran-que-los-vamos-a-encontrar-y-juzgar.html' target='_blank'>más información</a>)",
         "asset":
         {
           "media":"http://www.youtube.com/watch?v=_1CQJqR5gps",
-          "caption":"La Ministro Carlos Tomada presenta el Inspector Digital"
+          "caption":"El Ministro Carlos Tomada presenta el Inspector Digital"
         }
       },
       {
         "startDate":"2011,07",
         "headline":"Notificaciones Web",
-        "text": "Reingeniería completa del <span class='c1'>Sistema de Notificaciones</span> adpatándolo a la tecnología web. El usuario principal del sistema es el <span class='c1'>Departamento de Oficios y Notificacaciones</span>, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: <span class='c1'>SECLO</span>, <span class='c1'>Tribunal de Trabajo Doméstico</span>, <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, <span class='c1'>Dirección de Relaciones Individuales</span>, <span class='c1'>Diarios y Revistas</span>, <span class='c1'>Contrataciones y Patrimonio</span>, entre otros.<br /><br />Actualmente permite planificar el trabajo de más de <span class='c2'>16 notificadores</span> y al día de la fecha se han registrado más de <span class='c2'>356.000 notificaciones</span>.",
+        "text": "Reingeniería completa del <span class='c1'>Sistema de Notificaciones</span> adpatándolo a la tecnología web. El usuario principal del sistema es el <span class='c1'>Departamento de Oficios y Notificaciones</span>, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: <span class='c1'>SECLO</span>, <span class='c1'>Tribunal de Trabajo Doméstico</span>, <span class='c1'>Comisión Nacional de Trabajo Agrario</span>, <span class='c1'>Dirección de Relaciones Individuales</span>, <span class='c1'>Diarios y Revistas</span>, <span class='c1'>Contrataciones y Patrimonio</span>, entre otros.<br /><br />Actualmente permite planificar el trabajo de todos los notificadores del área y al día de la fecha se han registrado más de <span class='c2'>356.000 notificaciones</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/notificaciones_web.png",
@@ -343,7 +398,7 @@
       },
 
       {
-        "startDate":"2012,09",
+        "startDate":"2012,07",
         "headline":"Balance a nueve años de PNRT",
         "text": "La primera versión del sistema <span class='c1'>PNRT</span> se implementó en septiembre de 2003, a los pocos meses ya se habían registrado <span class='c2'>90.000 fiscalizaciones</span> y se habían relevado más de <span class='c2'>300.000 trabajadores</span>.<br /><br /> Luego de nueve años de uso continuo, y con nuevos aplicativos como el <span class='c1'>Inspector Digital</span> ya es posible hacer un balance. En todo este tiempo se han implementado <span class='c2'>225 versiones</span> del sistema <span class='c1'>PNRT</span>, se registraron <span class='c2'>1.150.000 fiscalizaciones</span> y se relevaron <span class='c2'>3.400.000 trabajadores</span>. A su vez la tasa de trabajo no registrado, que a principios de 2003 rondaba el <span class='c2'>45%</span>, a mediados del 2012 había caido al <span class='c2'>34.5%</span>.",
         "asset":
@@ -353,11 +408,22 @@
         }
       },
 
+      {
+        "startDate":"2012,09",
+        "headline":"Balance del Inspector Digital",
+        "text": "En poco más de dos años de implementarse el <span class='c2'>INDI</span>, su tasa de uso superó el 90% de los operativos, se realizaron <span class='c2'>190.000 inspecciones</span> y se relevaron <span class='c2'>460.000 trabajadores</span> .<br /><br />Este aplicativo permitió liberar a trabajadores de las tareas administrativas y aumentar el número de inspectores. También se lograron mejoras dramáticas en los tiempos del proceso. En 2005 cada expediente tardaba en promedio más de seis meses, a mediados del 2013 ese promedio se redujo a <span class='c2'>menos de dos meses</span>, como podemos ver en el gráfico adjunto.",
+        "asset":
+        {
+          "media":"assets/img/screenshots/indi_balance.png",
+          "caption":""
+        }
+      },
+
 
       {
-        "startDate":"2013,12",
+        "startDate":"2013,11",
         "headline":"Trabajadores contra la tercerización",
-        "text": "A pesar de tanto esfuerzo y compromiso que los trabajadores hemos puesto en todos estos años, hoy nuestras tareas están siendo tercerizadas, firmando contratos millonarios con consultoras privadas y poniendo información sensible en manos de terceros.<br /><br /><span class='c1'>Somos trabajadore estatales y estamos orgullosos de todo lo que hemos hecho por este Ministerio</span>.<br /><br /><span class='c1'>Simplemente queremos que nos dejen seguir haciendo nuestro trabajo</span>.",
+        "text": "A pesar de tanto esfuerzo y compromiso que los trabajadores hemos puesto en todos estos años, hoy nuestras tareas están siendo tercerizadas, firmando contratos millonarios con consultoras privadas y poniendo información sensible en manos de terceros.<br /><br /><span class='cierre'>Somos trabajadores estatales y estamos orgullosos de todo lo que hemos hecho por este organismo</span>.<br /><br /><span class='cierre'>Simplemente queremos que nos dejen seguir construyendo el Ministerio de Trabajo</span>.",
         "asset":
         {
           "media":"assets/img/screenshots/mtss_bandera_2.png",

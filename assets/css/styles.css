@@ -205,7 +205,6 @@ section, footer, header{
   line-height: 26px;
 }
 
-
 #timeline .slider-item img,
 #timeline .slider-item iframe{
   border:none;
@@ -254,6 +253,11 @@ section, footer, header{
 
 #timeline .slider-item .c2{
   color: #c92fe6;
+}
+
+#timeline .slider-item .cierre{
+  font-size: 1.3em;
+  color: #1bdff0;
 }
 
 #timeline .slider-item:nth-child(1) .media-container {
