@@ -337,21 +337,21 @@
       {
         "startDate":"2011,01",
         "headline":"La presidenta presenta el Inspector Digital",
-        "text": "Habiéndose declarado oficialmente el año 2011 como el <span class='c1'>Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores</span>, la Presidenta <span class='c2'>Cristina Fernández de Kirchner</span> presenta el <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el cual permite a los inspectores del <span class='c1'>Ministerio de Trabajo</span> controlar en tiempo real las condiciones laborales. (<a href='http://www.prensapolitica.com.ar/entrevistas-exclusivas/16722-cfk-trabajo-legal.html' target='_blank'>más información</a>)<br /><br />Paradójicamente, este es uno de los sistemas que <span class='c1'>hoy se está queriendo tercerizar con consultoras externas</span>...",
+        "text": "Habiéndose declarado oficialmente el año 2011 como el <span class='c1'>Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores</span>, la Presidenta <span class='c2'>Cristina Fernández de Kirchner</span> presenta el <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el cual permite a los inspectores del <span class='c1'>Ministerio de Trabajo</span> controlar en tiempo real las condiciones laborales. (<a href='http://www.prensapolitica.com.ar/entrevistas-exclusivas/16722-cfk-trabajo-legal.html' target='_blank'>más información</a> y <a href='http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39'>video</a>)<br /><br />Paradójicamente, este es uno de los sistemas que <span class='c1'>hoy se está queriendo tercerizar con consultoras externas</span>...",
         "asset":
         {
-          "media":"http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39",
-          "caption":"La Presidenta presenta con orgullo el Inspector Digital"
+          "media":"assets/img/screenshots/video_cristina.png",
+          "caption":"Video disponible <a href='http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39'>aquí</a> (accesible en el MTEySS después de las 17.00 hs)"
         }
       },
       {
         "startDate":"2011,02",
         "headline":"Carlos Tomada presenta el Inspector Digital",
-        "text": "Haciendo uso de la palabra en el acto de presentación del <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el Ministro <span class='c2'>Carlos Tomada</span> destaca que <i>'el proceso de la detección del trabajo en negro llevaba cuarenta días, <span class='c1'>hoy llevará tan sólo un día</span>, y se hará en el mismo lugar de los hechos'</i>.<br /><br />Y luego agrega <i>'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rápidamente, y sí saben que les vamos a aplicar la multa rápidamente.'</i> (<a href='http://www.prensapolitica.com.ar/candidatos-2011/24947-carlos-tomada-ahora-sabran-que-los-vamos-a-encontrar-y-juzgar.html' target='_blank'>más información</a>)",
+        "text": "Haciendo uso de la palabra en el acto de presentación del <span class='c1'>Inspector Digital</span>, también conocido como <span class='c1'>INDI</span>, el Ministro <span class='c2'>Carlos Tomada</span> destaca que <i>'el proceso de la detección del trabajo en negro llevaba cuarenta días, <span class='c1'>hoy llevará tan sólo un día</span>, y se hará en el mismo lugar de los hechos'</i>.<br /><br />Y luego agrega <i>'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rápidamente, y sí saben que les vamos a aplicar la multa rápidamente.'</i> (<a href='http://www.prensapolitica.com.ar/candidatos-2011/24947-carlos-tomada-ahora-sabran-que-los-vamos-a-encontrar-y-juzgar.html' target='_blank'>más información</a> y <a href='http://www.youtube.com/watch?v=_1CQJqR5gps'>video</a>)",
         "asset":
         {
-          "media":"http://www.youtube.com/watch?v=_1CQJqR5gps",
-          "caption":"El Ministro Carlos Tomada presenta el Inspector Digital"
+          "media":"assets/img/screenshots/video_tomada.png",
+          "caption":"Video disponible <a href='http://www.youtube.com/watch?v=_1CQJqR5gps'>aquí</a> (accesible en el MTEySS después de las 17.00 hs)"
         }
       },
       {
