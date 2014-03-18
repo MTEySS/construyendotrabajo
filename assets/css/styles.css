@@ -11,7 +11,7 @@
   General Styles
 --------------------------*/
 
-html{
+html {
   background:url('../img/page_bg.jpg') repeat #191919;
 }
 
@@ -22,7 +22,7 @@ body{
   overflow:hidden;
 }
 
-a, a:visited {
+a, a:visited{
   text-decoration:none;
   outline:none;
   color:#54a6de;
