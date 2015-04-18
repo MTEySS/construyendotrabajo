@@ -1,0 +1,46 @@
+recursos para la carta abierta
+
+jquery plugin para anotar fotos
+http://flipbit.co.uk/jquery-image-annotation.html#
+http://code.google.com/p/jquery-image-annotate/
+
+star wars text
+http://www.sitepoint.com/css3-starwars-scrolling-text/
+
+
+
+interactive picture
+http://static.buildinternet.com/live-tutorials/interactive-picture/index.html
+
+full page zoom resizable
+http://tympanus.net/codrops/2010/09/08/full-page-image-gallery/
+
+jquery zoomer
+http://css-tricks.com/examples/AnythingZoomer/double.php
+
+another zoomer
+http://www.mind-projects.it/projects/jqzoom/demos.php#demo1
+
+http://peterrohs.nl/
+
+http://static.buildinternet.com/live-tutorials/interactive-picture/index.html
+
+http://tympanus.net/Tutorials/AnnotationOverlayEffect/
+
+// this looks good!
+http://tympanus.net/Tutorials/FullPageImageGallery/
+
+http://codecanyon.net/item/hotspot-map-powerful-annotations-and-tooltips/full_screen_preview/2792438
+
+http://codecanyon.net/item/zoome-jquery-image-zoom-effect-plugin/full_screen_preview/2973067?ref=lvraa
+
+http://codecanyon.net/item/make-your-images-interactive-tag-your-images/full_screen_preview/2707794?ref=lvraa
+
+http://codecanyon.net/item/hoverex-jquery-image-hover-animation-plugin/full_screen_preview/3450469?ref=lvraa
+
+http://codecanyon.net/item/zalki-hover-image-plugin-jquery/full_screen_preview/3987074?ref=lvraa
+
+http://codecanyon.net/item/hotspotter-hotspot-maker-jquery-plugin/full_screen_preview/3833015?ref=lvraa
+
+http://annotorious.github.io/#
+

@@ -1,0 +1,148 @@
+1999
+Mesa de Entradas, Resoluciones y Notificaciones,
+Desarrollado para la Dirección de Despacho, el sistema permite gestionar todos los expedientes del Ministerio. Actualmente es utilizado a diario por más de 3.000 usuarios en todo el país, y contiene la información de más de 5.000.000 de documentos con sus 22.000.000 de pases. <br /><br />Para esa fecha también se desarrollaron el Sistema de Resoluciones Electrónicas y el de Notificaciones, a fin de hacer frente a la crisis del Y2K.,
+
+2000,7,
+Fondos Rotatorios y Liquidación de Gastos,
+Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite el registro, liquidación y control de los fondos rotatorios, así como la liquidación de gastos para el pago de proveedores. Mediante este sistema, al día de la fecha se han efectuado más de 26.000 liquidaciones.,
+
+2001,3,
+Gestión de Proyectos y Fiscalización del Seguro por Desempleo,
+El año 2001 marca el inicio de las primeras herramientas informáticas desarrolladas específicamente para la Secretaría de Empleo. El sistema de Gestión de Proyectos permite registrar y efectuar el control de los diversos proyectos de la Secretaría, mientras que el Sistema de Fiscalización de Seguro por Desempleo permite efectuar el control de la prestación que corresponde a todo trabajador en relación de dependencia que es despedido.,
+
+2002,4,
+Lanzamiento del Programa Jefas y Jefes de Hogar,
+En respuesta a una de las mayores crisis sociales, económicas e institucionales de nuestra historia, se desarrollaron en tiempo récord un conjunto de sistemas que permitieron registrar y empadronar cerca de 1,500,000 beneficiarios.<br /><br />El sistema permitía operar 'en línea' y también mediante el envío de planillas electrónicas para aquellos lugares del país donde no se disponía de conexión. Fue utilizado por más de 4000 municipios distribuidos en todo el país para la liquidación de casi 2.000.000 de planes sociales de manera mensual.,
+
+2003,1,
+Nuevos sistemas para la Secretaría de Empleo,
+A lo largo del año 2003 se implementan múltiples sistemas para la Secretaría de Empleo orientados a facilitar la gestión y control del cobro de los planes sociales.<br /><br />Entre los sistemas implementados podemos nombrar: Ingreso de Adhesiones y Novedades por Correo Electrónico, Fizcalización y Seguimientos de Proyectos, Gestión de Tarjetas magnéticas, Gestión de acreditaciones y pagos de beneficios de Planes Sociales entre otros.,
+
+2003,9,
+Plan Nacional de Regularización del Trabajo,
+Luego de una década de neoliberalismo a ultranza, con una tasa de empleo no registrado del 44.8%, la Secretaría de Trabajo se fija como objetivo fortalecer las tareas de inspección y lanza el Plan Nacional de Regularización del Trabajo, también conocido como PNRT<br /><br />En Septiembre de 2003 se implementa su primera versión, a los pocos meses ya se habían registrado 90.000 fiscalizaciones  y se habían relevado más de 300.000 trabajadores.,
+
+2004,3,
+Centro de Asesoriamento Laboral,
+Desarrollado para el Centro de Asesoramiento Laboral, el sistema Callcenter permite gestionar y almacenar todas la consultas telefónicas que realizan los ciudadanos por planes de empleo, programas de capacitación o cuestiones laborales.<br /><br /> Actualmente el sistema lleva registrados más de 1.400.000 llamados entre consultas y denuncias.,
+
+2004,6,
+Gestión de Tarjetas Magnéticas,
+En el marco del lanzamiento del Plan Tarjeta Social, se lleva adelante el desarrollo del Sistema de Gestión de Tarjetas Magnéticas, el cual permite el registro y gestión junto al Banco de la Nación Argentina de más de 1,500,000 de tarjetas magnéticas y la acreditación de millones de beneficios correspondientes a programas sociales en las cuentas de los beneficiarios en el BNA.,
+
+2004,11,
+Dictámenes y Recursos,
+Desarrollado para la Dirección de Dictámenes y Recursos, el sistema permite la gestión de los escritos elaborados por los abogados dictaminantes.<br /><br /> Hoy en día cuenta con más de 25.000 documentos, entre dictámenes y recursos, elaborados a lo largo de estos años por más de 50 profesionales del área.,
+
+2004,6,
+Datawarehouse de la Secretaría de Empleo,
+Se implementa el Datawarehouse de Empleo, una aplicación de Business Intelligencede que brinda información para la toma de decisiones en línea.<br /><br />Se comienzan a mostrar indicadores de información registrada en los primeros años de gestión. Nace una herramienta para la toma de decisiones.,
+
+2005,7,
+Biblioteca Digital de Convenios Colectivos de Trabajo,
+Desarrollado para la Secretaría de Trabajo, consistió en la migración de la antigua base de datos de Convenios y Acuerdos que se encontraba guardada en múltiples archivos Excel. Permite cargar la totalidad de los contenidos de la negociación colectiva, y cuenta con un sistema de clasificación de los contenidos elaborado por los usuarios del área expertos en la materia.<br /><br />Al día de la fecha se encuentran registrados más de 16.000 Convenios y Acuerdos, firmados por 3.500 sindicatos y casi 5.000 empleadores.,
+
+2005,8,
+Postulantes,
+Desarrollado para la Dirección de Recursos Humanos, se trata de una bolsa de trabajo para aquellos ciudadanos interesados en ingresar al Ministerio de Trabajo. Hacia fines de 2008 el Ministerio ya contaba con una completa base de trabajadores con los más de 70.000 postulantes que ingresaron sus datos.<br /><br /> El alta del CV que ven en la pantalla sirvió de base para el posterior Sistema Concursar.,
+
+2005,11,
+Seguimiento gráfico de expedientes del PNRT,
+Se trata de un módulo del PNRT desarrollado para la Subsecretaría de Fiscalización, que permite visualizar todo el workflow y los cambios de estado seguidos por cada expediente. Se trata de una herramienta gráfica que permite analizar dinámicamente los más de treinta posibles estados por los que puede pasar un trámite del PNRT, permitiéndole al usuario identificar a simple vista los desvíos y atrasos en la tramitación de las fiscalizaciones.,
+
+2006,01,
+Acciones Judiciales,
+Desarrollado para la Dirección de Acciones Judiciales permite asistir a los letrados en la representación del Ministerio de Trabajo ante la justicia. Actualmente es utilizado en 40 dependencias de todo el país por más de 150 abogados, incluyendo el acceso de los abogados de la Procuración. Al día de la fecha el sistema ha permitido la gestión de más de 120.000 casos ante la justicia, 130.000 expedientes administrativos y 87.000 boletas de pago. <br /><br />El Sistema cuenta además con interfaces con otros organismos como AFIP, la Cámara de la Seguridad Social y próximamente con los Juzgados Federales a nivel país y con la Cámara Laboral.,
+
+2006,5,
+Portal de Empleo,
+En el marco del Seguro de Capacitación y Empleo se implementa el Portal de Empleo en colaboración internacional con Italia Lavoro, constituyendo una nueva herramienta para acercar al Ministerio a los ciudadanos que permite la intermediación laboral integrando la oferta de capacitación y laboral del organismo con las necesidades de los ciudadanos.,
+
+2006,10,
+Liquidación de Comisiones de Servicio y Viáticos,
+Desarrollado para la Dirección de Administración y Control Presupuestario, el sistema permite registrar y liquidar los viáticos efectuados por los trabajadores del Ministerio. Desde que se puso en uso se registraron más de 90.000 liquidaciones de viáticos para cerca de 2.700 agentes. <br /><br />El sistema es utilizado por las oficinas centrales y todas las delegaciones regionales y gerencias de empleo del país.,
+
+2007,02,
+Resoluciones de Trabajo Agrario,
+Desarrollado para la Comisión Nacional de Trabajo Agrario, el sistema permite registrar y consultar toda la normativa vinculada a los temas de Trabajo Agrario. Actualmente a través de este sistema se han publicado más de 1.400 resoluciones atinentes a esta temática. <br /><br />El sistema cuenta además con una consulta de acceso público disponible en la página web del Ministerio de Trabajo.,
+
+2007,12,
+Gestión de la Negociación Colectiva,
+Desarrollado para la Dirección Nacional de Regulaciones del Trabajo Actualmente a través de este sistema se han registrado más de 19.000 trámites en los cuales el personal de la DNRT analiza y elabora informes detallados acerca de cada convenio que se homologa en el Ministerio de Trabajo para ser elevados a la Secretaria de Trabajo.,
+
+2008,2,
+Registro de Empresas Eventuales,
+Siendo las empresas eventuales uno de los colectivos de trabajadores que presenta una de las tasas más altas de trabajo no registrado, respondiendo a la solicitud de la Subsecretaría de Fiscalización, se implementa el Sistema de Registro de Empresas Eventuales, a fin de administrar el cobro de garantía y verificar la correcta registración de los trabajadores.,
+
+2008,4,
+Programa Jóvenes con más y mejor trabajo,
+Un nuevo programa para ser gestionado a través de las herramientas ya desarrolladas y adecuadas según las necesidades específicas de esta nueva iniciativa. Se implementa también en Sistema de Planificacion de visitas de Seguimiento Técnico, consistente en una serie de formularios que permitan el registro y control de las tareas del seguimiento de los proyectos.,
+
+2008,7,
+Registro Único de Inspecciones, Infracciones y Sanciones,
+Se implementa y se presenta en el Consejo Federal del Trabajo el nuevo sistema de Registro Único de Inspecciones, Infracciones y Sanciones, también conocido como RUIIS, en donde se registra lo hecho en materia inspectiva en todo el territorio argentino por AFIP, ANSES, Ministerio de Trabajo de la Nación y los demás ministerios provinciales.<br /><br />Actualmente el sistema lleva registradas 1.600.000 inspecciones y 610.000 infracciones. También se ha implementado una interface automática con el sistema RETRA de la AFIP para actualizar a diario la información.,
+
+2008,9,
+Gestión de Órdenes de Inspección,
+A fin de poder dar respuesta a las denuncias laborales, se crea el Sistema de Gestión de Órdenes de Inspección, también conocido como GOI, a pedido de la Secretaría de Trabajo.<br /><br />Al día de la fecha se han registrado más de 32.000 denuncias.,
+
+2009,1,
+Crédito Fiscal,
+Se implementa el programa de Crédito Fiscal, una serie de incentivos para Pymes y grandes empresas que generen proyectos de capacitación para los trabajadores. A tal fin, se desarrolla un aplicativo informático para la presentación, evaluación y aprobación de proyectos de Crédito Fiscal, integrándolo además con los demás sistemas existentes.,
+
+2009,05,
+Recuperación Productiva,
+En el marco de la situación de emergencia ocupacional, y con el fin de mantener los puestos de trabajo existentes y mejorar las condiciones laborales de los trabajadores, se lanza el Programa de Recuperación Productiva. A fin de dar soporte a dicho programa se crea el sistema RePro.<br /><br />Hoy en día en el sistema RePro hay registradas más de 8.000 empresas participantes, permitiendo la gestión de 17.000 proyectos que alcanzan a 370.000 trabajadores.,
+
+2009,06,
+Sumarios Administrativos,
+Este sistema fue desarrollado por el Instituto Nacional de Teconología Agropecuaria (INTA) utilizando Software Libre. Gracias a ello pudo ser compartido libremente con el Ministerio de Trabajo sin costo alguno. Los trabajadores de la Dirección de Sistemas adaptamos el proyecto a las necesidades específicas de la Dirección de Sumarios Administrativos, agregando nuevos módulos y funcionalidades.<br /><br />Actualmente hay más de 250 sumarios e informaciones sumarias ingresadas al sistema.,
+
+2010,02,
+Concursos para la Administración Pública Nacional,
+Sistema diseñado junto la Dirección de Recursos Humanos para llevar adelante la convocatoria a concursos en el marco del sectorial SINEP. Ha permitido que miles de postulantes se presentaran para ocupar cargos en el Ministerio de Trabajo.<br /><br />.El sistema ha tenido gran reconocimiento por parte de la Jefatura de Gabinete y ha sido implementado en múltiples organismos de la APN para llevar adelante el proceso de convocatorias a la cobertura de cargos mediante el sistema de concursos.,
+
+2010,04,
+Certificación de calidad de la Biblioteca Digital de Convenios Colectivos,
+En agosto de 2010 el buscador de negociación colectiva de la Biblioteca Digital de Convenios Colectivos fue certificado bajo las normas de calidad ISO 9001:2008. Al día de la fecha se encuentran registrados más de 16.000 Convenios, Acuerdos y Laudos, firmados por 3.500 sindicatos y casi 5.000 empleadores.,
+
+2010,12,
+Firma Digital en el PNRT,
+Fruto del caudal de inspecciones producidas por el PNRT, la Dirección de Resoluciones de la Fiscalización debía protocolizar y resolver cientos de resoluciones por día. Es entonces que se incorpora la funcionalidad de protocolización automática y la implementación de la firma digital a fin de automatizar y agilizar la tarea.<br /><br />Esto ha permitido al Juez Administrativo llegar a protocolizar y resolver un promedio de 300 expedientes por día, contando a la fecha con más de 140.000 resoluciones firmadas.,
+
+2011,01,
+La presidenta presenta el Inspector Digital,
+En el Año del Trabajo Decente, la Salud y Seguridad de los Trabajadores, la Presidenta Cristina Fernández de Kirchner presenta el Inspector Digital, también conocido como INDI, el cual permite a los inspectores del Ministerio de Trabajo controlar en tiempo real las condiciones laborales. (<a href='http://www.prensapolitica.com.ar/entrevistas-exclusivas/16722-cfk-trabajo-legal.html' target='_blank'>más información</a> y <a href='http://www.youtube.com/watch?v=O6yDwyTbnkQ#t=39'>video</a>)<br /><br />Dijo la Presidenta '<i>Esto que estamos haciendo hoy es ciencia y tecnología aplicado a una mejor calidad en la gestión del Estado y la reducción del trabajo ilegal</i>'. Paradójicamente, éste es uno de los sistemas que hoy se está queriendo tercerizar con consultoras externas...,
+
+2011,02,
+Carlos Tomada presenta el Inspector Digital,
+Haciendo uso de la palabra en el acto de presentación del Inspector Digital, también conocido como INDI, el Ministro Carlos Tomada destaca que <i>'el proceso de la detección del trabajo en negro llevaba cuarenta días, hoy llevará tan sólo un día, y se hará en el mismo lugar de los hechos'</i>.<br /><br />Y luego agrega <i>'Ahora sí saben que los vamos a encontrar, sí saben que los vamos a juzgar rápidamente, y sí saben que les vamos a aplicar la multa rápidamente.'</i> (<a href='http://www.prensapolitica.com.ar/candidatos-2011/24947-carlos-tomada-ahora-sabran-que-los-vamos-a-encontrar-y-juzgar.html' target='_blank'>más información</a> y <a href='http://www.youtube.com/watch?v=_1CQJqR5gps'>video</a>),
+
+2011,07,
+Notificaciones Web,
+Reingeniería completa del Sistema de Notificaciones adpatándolo a la tecnología web. El usuario principal del sistema es el Departamento de Oficios y Notificaciones, pero también es utilizado por múltiples áreas, entre las cuales se encuentran: SECLO, Tribunal de Trabajo Doméstico, Comisión Nacional de Trabajo Agrario, Dirección de Relaciones Individuales, Diarios y Revistas, Contrataciones y Patrimonio, entre otros.<br /><br />Actualmente permite planificar el trabajo de todos los notificadores del área y al día de la fecha se han registrado más de 356.000 notificaciones.,
+
+2011,9,
+Sistema para la gestión de Documentos - CEDET,
+Implementación de una biblioteca en línea para la gestión documental del CEDET. Es un servicio web gratuito que tiene como finalidad conformar una base de conocimiento sobre el mundo del trabajo y las politicas de empleo.<br /><br />Se trata de un instrumento de conocimiento para orientar decisiones y estrategias, una herramienta para sistematizar y organizar la información en la red y distribuirla a través de un único punto de acceso. Permite la creación de productos editoriales personalizados, en respuesta a las necesidades de los 'clientes' internos y externos, etc.,
+
+2011,11,
+Consulta web de Mesa de Entradas General,
+Desarrollo de un buscador de expedientes en versión web para uso interno. El mismo es utilizado a diario por gran parte de los 4.000 trabajadores del Ministerio y ha permtido aliviar la carga de trabajo del sistema de alta de de Expedientes.<br /><br />También se ha desarrollado un buscador público de expedientes disponible para todos los ciudadanos en la página web del Ministerio.,
+
+2012,06,
+Gestión de la Negociación Colectiva,
+Continuando con la informatización completa de todas las áreas involucradas en el circuito de gestión de la Negociación Colectiva, luego de desarrollar la Biblioteca Digital de Convenios Colectivos, y el Sistema de Gestión de la Negociación Colectiva, se procede al desarrollo del Sistema de Gestión para la Dirección de Negociación Colectiva.<br /><br />Este sistema está actualmente en desarrollo.,
+
+2012,07,
+Balance a nueve años de PNRT,
+La primera versión del sistema PNRT se implementó en septiembre de 2003, a los pocos meses ya se habían registrado 90.000 fiscalizaciones y se habían relevado más de 300.000 trabajadores.<br /><br /> Luego de nueve años de uso continuo, y con nuevos aplicativos como el Inspector Digital ya es posible hacer un balance. En todo este tiempo se han implementado 225 versiones del sistema PNRT, se registraron 1.150.000 fiscalizaciones y se relevaron 3.400.000 trabajadores. A su vez la tasa de trabajo no registrado, que a principios de 2003 rondaba el 45%, a mediados del 2012 había caido al 34.5%.,
+
+2012,09,
+Balance del Inspector Digital,
+En poco más de dos años de implementarse el INDI, su tasa de uso superó el 90% de los operativos, se realizaron 190.000 inspecciones y se relevaron 460.000 trabajadores .<br /><br />Este aplicativo permitió liberar a trabajadores de las tareas administrativas y aumentar el número de inspectores. También se lograron mejoras dramáticas en los tiempos del proceso. En 2005 cada expediente tardaba en promedio más de seis meses, a mediados del 2013 ese promedio se redujo a menos de dos meses, como podemos ver en el gráfico adjunto.,
+
+2013,11,
+Trabajadores contra la tercerización,
+A pesar de tanto esfuerzo y compromiso que los trabajadores hemos puesto en todos estos años, hoy nuestras tareas están siendo tercerizadas, firmando contratos millonarios con consultoras privadas y poniendo información sensible en manos de terceros.<br /><br /><span class='cierre'>Somos trabajadores estatales y estamos orgullosos de todo lo que hemos hecho por este organismo.<br /><br /><span class='cierre'>Simplemente queremos que nos dejen seguir construyendo el Ministerio de Trabajo.,
+

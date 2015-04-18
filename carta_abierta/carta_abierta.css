@@ -1,0 +1,69 @@
+/*-------------------------
+  Simple reset
+--------------------------*/
+
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  overflow: visible;
+}
+
+h2{
+  font: normal 35px 'Antic Slab','Segoe UI',sans-serif;
+  background: rgba(0,0,0,0.3);
+  white-space: nowrap;
+  padding: 10px 5px 5px 20px;
+  z-index: 10;
+  color: #FFF;
+}
+
+a, a:visited{
+  color: #FFF;
+  text-decoration: none;
+}
+
+h2 a:hover{
+  text-decoration: none;
+}
+
+div.container{
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container .title{
+  font-family: 'Antic Slab','Segoe UI',sans-serif;
+  padding: 10px 20px 20px 20px;
+  color: #ddd;
+  font-size: 1.4em;
+  line-height: 26px;
+}
+
+.links_bar{
+  overflow: hidden;
+  display: block;
+  background: rgba(0,0,0,0.3);
+  width: 100%;
+}
+
+.link{
+  font: normal 26px 'Antic Slab','Segoe UI',sans-serif;
+  white-space: nowrap;
+  padding: 10px 20px 10px 20px;
+  z-index: 10;
+  color: #FFF;
+}
+
+.descargar_pdf {
+  float: left;
+}
+
+.volver {
+  float: right;
+}
+

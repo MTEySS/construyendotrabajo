@@ -1,0 +1,58 @@
+
+Objetivo:
+=========
+
+Desarrollar una visualización que muestre en un timeline todos los logros y sistemas desarrollados por los trabajadores de la Dirección de Sistemas de los últimos quince años.
+
+Repo: https://github.com/MTEySS/construyendotrabajo
+
+Publicado en: http://mteyss.github.io/construyendotrabajo/
+
+Sitio publico: construyendotrabajo.org, construyendotrabajo.com, construyendotrabajo.com.ar
+
+
+Datos a relevar:
+================
+
+Para ir armando el evento correspondiente a cada sistema necesitamos redactar un breve párrafo que explique qué hace el sistema, cuándo fue puesto en producción, cuánta información maneja, y quiénes son los usuarios.
+
+Para ello precisamos ir completando los siguientes datos:
+
+(*)Nombre del Sistema:
+
+Link: link de la intranet / internet para acceder al aplicativo si tiene
+
+(*)Fecha de puesta en produccion
+
+(*)Secretaria / Subsecretaria: Trabajo, Empleo, Coordinación
+
+(*)Area Usuaria
+
+(*)Objetivo del sistema
+
+Cantidad de usuarios
+
+Cantidad de información
+
+Otra información
+
+Imágenes: podrían subirse a flickr, verificar que no esté bloqueado
+
+Contexto país
+
+(*): campo requerido
+--
+
+Planilla online para completar los campos:
+
+https://docs.google.com/spreadsheet/ccc?key=0AuygTWuNCBX5dGVXaWtiUlNxVkVsM1Jxdkg4MVJYVVE&usp=sharing
+
+
+Sitios de interés para tomar ideas:
+===================================
+
+http://timeline.knightlab.com/
+
+http://www.decadaganada.gob.ar/
+
+
